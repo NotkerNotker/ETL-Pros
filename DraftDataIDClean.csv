@@ -1,0 +1,1678 @@
+,player_id,player,year,round,pick,position,school,last name,first name
+0,9101,Alaa Abdelnaby,1990,1,25,PF,Duke,Abdelnaby,Alaa
+1,9105,Tariq Abdul-Wahad,1997,1,11,SF,San Jose State,Abdul-Wahad,Tariq
+2,9106,Shareef Abdur-Rahim,1996,1,3,F,California,Abdur-Rahim,Shareef
+3,9111,Alex Acker,2005,2,60,G,Pepperdine,Acker,Alex
+4,9113,Mark Acres,1985,2,40,F/C,Oral Roberts,Acres,Mark
+5,9115,Quincy Acy,2012,2,37,PF,Baylor,Acy,Quincy
+6,9119,Hassan Adams,2006,2,54,G,Arizona,Adams,Hassan
+7,9120,Jordan Adams,2014,1,22,SG,UCLA,Adams,Jordan
+8,9122,Steven Adams,2013,1,12,C,Pittsburgh,Adams,Steven
+9,9123,Rafael Addison,1986,2,39,SF,Syracuse,Addison,Rafael
+10,9124,Bam Adebayo,2017,1,14,PF/C,Kentucky,Adebayo,Bam
+11,9127,Arron Afflalo,2007,1,27,SG,UCLA,Afflalo,Arron
+12,9128,Maurice Ager,2006,1,28,G,Michigan State,Ager,Maurice
+13,9129,Mark Aguirre,1981,1,1,G/F,DePaul,Aguirre,Mark
+14,9131,Danny Ainge,1981,2,31,G/F,Brigham Young,Ainge,Danny
+15,9136,Solomon Alabi,2010,2,50,C,Florida State,Alabi,Solomon
+16,9137,Mark Alarie,1986,1,18,PF,Duke,Alarie,Mark
+17,9139,Furkan Aldemir,2012,2,53,PF,Galatasaray,Aldemir,Furkan
+18,9140,Cole Aldrich,2010,1,11,C,Kansas,Aldrich,Cole
+19,9141,LaMarcus Aldridge,2006,1,2,PF,Texas,Aldridge,LaMarcus
+20,9144,Cory Alexander,1995,1,29,PG,Virginia,Alexander,Cory
+21,9145,Courtney Alexander,2000,1,13,SG,Fresno State,Alexander,Courtney
+22,9147,Joe Alexander,2008,1,8,SF,West Virginia,Alexander,Joe
+23,9148,Victor Alexander,1991,1,17,C,Iowa State,Alexander,Victor
+24,9149,Steve Alford,1987,2,26,SG,Indiana,Alford,Steve
+25,9152,Jarrett Allen,2017,1,22,C,Texas,Allen,Jarrett
+26,9153,Jerome Allen,1995,2,49,G,Pennsylvania,Allen,Jerome
+27,9154,Kadeem Allen,2017,2,53,SG,Arizona,Allen,Kadeem
+28,9155,Lavoy Allen,2011,2,50,PF,Temple,Allen,Lavoy
+29,9159,Ray Allen,1996,1,5,G,Connecticut,Allen,Ray
+30,9160,Tony Allen,2004,1,25,SG,Oklahoma State,Allen,Tony
+31,9165,Morris Almond,2007,1,25,SG,Rice,Almond,Morris
+32,9166,Derrick Alston,1994,2,33,F,Duquesne,Alston,Derrick
+33,9167,Rafer Alston,1998,2,39,PG,Fresno State,Alston,Rafer
+34,9171,Al-Farouq Aminu,2010,1,8,SF,Wake Forest,Aminu,Al-Farouq
+35,9175,David Andersen,2002,2,37,C,Virtus Bologna,Andersen,David
+36,9182,Derek Anderson,1997,1,13,SG,Kentucky,Anderson,Derek
+37,9183,Dwight Anderson,1982,2,41,G,USC,Anderson,Dwight
+38,9187,James Anderson,2010,1,20,SG,Oklahoma State,Anderson,James
+39,9189,Justin Anderson,2015,1,21,SF,Virginia,Anderson,Justin
+40,9190,Kenny Anderson,1991,1,2,PG,Georgia Tech,Anderson,Kenny
+41,9192,Kyle Anderson,2014,1,30,SF,UCLA,Anderson,Kyle
+42,9194,Nick Anderson,1989,1,11,SF/SG,Illinois,Anderson,Nick
+43,9195,Richard Anderson,1982,2,32,PF,UC Santa Barbara,Anderson,Richard
+44,9196,Ron Anderson,1984,2,27,G/F,Fresno State,Anderson,Ron
+45,9197,Ryan Anderson,2008,1,21,PF,California,Anderson,Ryan
+46,9198,Shandon Anderson,1996,2,54,F,Georgia,Anderson,Shandon
+47,9199,Willie Anderson,1988,1,10,SG,Georgia,Anderson,Willie
+48,9203,Ike Anigbogu,2017,2,47,C,UCLA,Anigbogu,Ike
+49,9204,Michael Ansley,1989,2,37,F,Alabama,Ansley,Michael
+50,9205,Chris Anstey,1997,1,18,PF,SE Melbourne Magic,Anstey,Chris
+51,9206,Giannis Antetokounmpo,2013,1,15,SF/PF,Filathlitikos,Antetokounmpo,Giannis
+52,9207,Thanasis Antetokounmpo,2014,2,51,SF,Delaware 87ers,Antetokounmpo,Thanasis
+53,9208,Carmelo Anthony,2003,1,3,SF,Syracuse,Anthony,Carmelo
+54,9209,Greg Anthony,1991,1,12,PG,UNLV,Anthony,Greg
+55,9212,OG Anunoby,2017,1,23,SF,Indiana,Anunoby,OG
+56,9216,Robert Archibald,2002,2,32,PF,Illinois,Archibald,Robert
+57,9220,Gilbert Arenas,2001,2,31,PG,Arizona,Arenas,Gilbert
+58,9221,Trevor Ariza,2004,2,43,SF,UCLA,Ariza,Trevor
+59,9226,Brandon Armstrong,2001,1,23,SG,Pepperdine,Armstrong,Brandon
+60,9229,Hilton Armstrong,2006,1,12,C,Connecticut,Armstrong,Hilton
+61,9235,Darrell Arthur,2008,1,27,PF,Kansas,Arthur,Darrell
+62,9239,Vincent Askew,1987,2,39,SG/SF,Memphis State,Askew,Vincent
+63,9246,Stacey Augmon,1991,1,9,SG/SF,UNLV,Augmon,Stacey
+64,9248,James Augustine,2006,2,41,F,Illinois,Augustine,James
+65,9249,Isaac Austin,1991,2,48,C,Arizona State,Austin,Isaac
+66,9252,Anthony Avent,1991,1,15,PF,Seton Hall,Avent,Anthony
+67,9254,William Avery,1999,1,14,PG,Duke,Avery,William
+68,9260,Luke Babbitt,2010,1,16,SF,Nevada,Babbitt,Luke
+69,9263,Dwayne Bacon,2017,2,40,SG,Florida State,Bacon,Dwayne
+70,9267,John Bagley,1982,1,12,PG,Boston College,Bagley,John
+71,9271,Thurl Bailey,1983,1,7,PF,NC State,Bailey,Thurl
+72,9272,Toby Bailey,1998,2,45,SG,UCLA,Bailey,Toby
+73,9273,Cameron Bairstow,2014,2,49,PF/C,New Mexico,Bairstow,Cameron
+74,9279,Vin Baker,1993,1,8,PF,Hartford,Baker,Vin
+75,9281,Renaldo Balkman,2006,1,20,F,South Carolina,Balkman,Renaldo
+76,9283,Lonzo Ball,2017,1,2,PG,UCLA,Ball,Lonzo
+77,9286,Gene Banks,1981,2,28,G/F,Duke,Banks,Gene
+78,9287,Marcus Banks,2003,1,13,PG,UNLV,Banks,Marcus
+79,9292,Leandro Barbosa,2003,1,28,SG,Bauru Tilibra,Barbosa,Leandro
+80,9293,Steve Bardo,1990,2,41,G,Illinois,Bardo,Steve
+81,9295,Andrea Bargnani,2006,1,1,PF,Benetton Treviso,Bargnani,Andrea
+82,9298,Charles Barkley,1984,1,5,F,Auburn,Barkley,Charles
+83,9299,Erick Barkley,2000,1,28,PG,St. John's,Barkley,Erick
+84,9301,Harrison Barnes,2012,1,7,SF,North Carolina,Barnes,Harrison
+85,9305,Matt Barnes,2002,2,46,SF,UCLA,Barnes,Matt
+86,9319,Dana Barros,1989,1,16,PG,Boston College,Barros,Dana
+87,9320,Brent Barry,1995,1,15,SG,Oregon State,Barry,Brent
+88,9321,Drew Barry,1996,2,57,G,Georgia Tech,Barry,Drew
+89,9322,Jon Barry,1992,1,21,SG,Georgia Tech,Barry,Jon
+90,9326,Will Barton,2012,2,40,SG,Memphis,Barton,Will
+91,9329,Brandon Bass,2005,2,33,F,LSU,Bass,Brandon
+92,9331,Maceo Baston,1998,2,58,PF,Michigan,Baston,Maceo
+93,9336,Tony Battie,1997,1,5,C/F,Texas Tech,Battie,Tony
+94,9337,Shane Battier,2001,1,6,SF,Duke,Battier,Shane
+95,9339,Kenny Battle,1989,1,27,PF,Illinois,Battle,Kenny
+96,9342,Nicolas Batum,2008,1,25,SF,Le Mans,Batum,Nicolas
+97,9345,Lonny Baxter,2002,2,44,PF,Maryland,Baxter,Lonny
+98,9346,Jerryd Bayless,2008,1,11,PG,Arizona,Bayless,Jerryd
+99,9353,Bradley Beal,2012,1,3,SG,Florida,Beal,Bradley
+100,9358,Jerome Beasley,2003,2,33,PF,North Dakota,Beasley,Jerome
+101,9360,Malik Beasley,2016,1,19,SG,Florida State,Beasley,Malik
+102,9361,Michael Beasley,2008,1,2,PF,Kansas State,Beasley,Michael
+103,9363,Rodrigue Beaubois,2009,1,25,PG,Cholet,Beaubois,Rodrigue
+104,9370,William Bedford,1986,1,6,C,Memphis State,Bedford,William
+105,9374,Marco Belinelli,2007,1,18,SG,Fortitudo Bologna,Belinelli,Marco
+106,9377,Jordan Bell,2017,2,38,PF,Oregon,Bell,Jordan
+107,9379,Troy Bell,2003,1,16,PG,Boston College,Bell,Troy
+108,9382,DeAndre' Bembry,2016,1,21,SF,Saint Joseph's,Bembry,DeAndre'
+109,9385,Dragan Bender,2016,1,4,PF/C,Maccabi FOX Tel Aviv,Bender,Dragan
+110,9386,Jonathan Bender,1999,1,5,PF,Picayune Memorial HS,Bender,Jonathan
+111,9388,Benoit Benjamin,1985,1,3,C,Creighton,Benjamin,Benoit
+112,9389,Corey Benjamin,1998,1,28,SG,Oregon State,Benjamin,Corey
+113,9390,Anthony Bennett,2013,1,1,PF/SF,UNLV,Bennett,Anthony
+114,9391,Elmer Bennett,1992,2,38,G,Notre Dame,Bennett,Elmer
+115,9392,Mario Bennett,1995,1,27,PF,Arizona State,Bennett,Mario
+116,9395,Tony Bennett,1992,2,35,G,Wisconsin Green Bay,Bennett,Tony
+117,9398,Keith Benson,2011,2,48,C,Oakland,Benson,Keith
+118,9400,Ben Bentil,2016,2,51,PF,Providence,Bentil,Ben
+119,9404,Ricky Berry,1988,1,18,SG,San Jose State,Berry,Ricky
+120,9405,Walter Berry,1986,1,14,SF/PF,St. John's,Berry,Walter
+121,9408,Travis Best,1995,1,23,PG,Georgia Tech,Best,Travis
+122,9409,Patrick Beverley,2009,2,42,PG,Arkansas,Beverley,Patrick
+123,9415,Mike Bibby,1998,1,2,PG,Arizona,Bibby,Mike
+124,9421,Chauncey Billups,1997,1,3,PG,Colorado,Billups,Chauncey
+125,9425,Jabari Bird,2017,2,56,SG,California,Bird,Jabari
+126,9430,Bismack Biyombo,2011,1,7,C,Fuenlabrada,Biyombo,Bismack
+127,9431,Nemanja Bjelica,2010,2,35,SF,Red Star Belgrade,Bjelica,Nemanja
+128,9432,Uwe Blab,1985,1,17,C,Indiana,Blab,Uwe
+129,9437,Rolando Blackman,1981,1,9,G,Kansas State,Blackman,Rolando
+130,9439,Cory Blackwell,1984,2,28,F,Wisconsin,Blackwell,Cory
+131,9441,Nate Blackwell,1987,2,27,PG,Temple,Blackwell,Nate
+132,9442,DeJuan Blair,2009,2,37,PF,Pittsburgh,Blair,DeJuan
+133,9443,Steve Blake,2003,2,38,PG,Maryland,Blake,Steve
+134,9445,Will Blalock,2006,2,60,G,Iowa State,Blalock,Will
+135,9447,Lance Blanks,1990,1,26,PG/SG,Texas,Blanks,Lance
+136,9448,Ricky Blanton,1989,2,46,F,LSU,Blanton,Ricky
+137,9449,Andray Blatche,2005,2,49,F,South Kent School,Blatche,Andray
+138,9450,Mookie Blaylock,1989,1,12,PG,Oklahoma,Blaylock,Mookie
+139,9451,Eric Bledsoe,2010,1,18,PG,Kentucky,Bledsoe,Eric
+140,9455,Corie Blount,1993,1,25,PF,Cincinnati,Blount,Corie
+141,9456,Mark Blount,1997,2,54,C,Pittsburgh,Blount,Mark
+142,9458,Ray Blume,1981,2,36,G,Oregon State,Blume,Ray
+143,9463,Keith Bogans,2003,2,43,SG,Kentucky,Bogans,Keith
+144,9466,Muggsy Bogues,1987,1,12,PG,Wake Forest,Bogues,Muggsy
+145,9467,Andrew Bogut,2005,1,1,C,Utah,Bogut,Andrew
+146,9469,Manute Bol,1985,2,31,C,Bridgeport,Bol,Manute
+147,9471,Joel Bolomboy,2016,2,52,PF/C,Weber State,Bolomboy,Joel
+148,9478,Anthony Bonner,1990,1,23,PF/SF,Saint Louis,Bonner,Anthony
+149,9479,Matt Bonner,2003,2,45,F,Florida,Bonner,Matt
+150,9481,Devin Booker,2015,1,13,SG,Kentucky,Booker,Devin
+151,9483,Trevor Booker,2010,1,23,PF,Clemson,Booker,Trevor
+152,9484,Josh Boone,2006,1,23,F,Connecticut,Boone,Josh
+153,9486,Calvin Booth,1999,2,35,C,Penn State,Booth,Calvin
+154,9487,Keith Booth,1997,1,28,SF,Maryland,Booth,Keith
+155,9489,Carlos Boozer,2002,2,35,PF,Duke,Boozer,Carlos
+156,9490,Curtis Borchardt,2002,1,18,C,Stanford,Borchardt,Curtis
+157,9495,Chris Bosh,2003,1,4,PF/C,Georgia Tech,Bosh,Chris
+158,9499,Ruben Boumtje-Boumtje,2001,2,50,C,Georgetown,Boumtje-Boumtje,Ruben
+159,9501,Cal Bowdler,1999,1,17,PF,Old Dominion,Bowdler,Cal
+160,9503,Ryan Bowen,1998,2,55,SF,Iowa,Bowen,Ryan
+161,9506,Sam Bowie,1984,1,2,C,Kentucky,Bowie,Sam
+162,9510,Donnie Boyce,1995,2,42,G,Colorado,Boyce,Donnie
+163,9519,Craig Brackins,2010,1,21,PF,Iowa State,Brackins,Craig
+164,9523,Avery Bradley,2010,1,19,SG,Texas,Bradley,Avery
+165,9526,Charles Bradley,1981,1,23,G,Wyoming,Bradley,Charles
+166,9530,Michael Bradley,2001,1,17,PF,Villanova,Bradley,Michael
+167,9531,Shawn Bradley,1993,1,2,C,BYU,Bradley,Shawn
+168,9532,Tony Bradley,2017,1,28,PF/C,North Carolina,Bradley,Tony
+169,9535,Torraye Braggs,1998,2,57,PF,Xavier,Braggs,Torraye
+170,9537,Adrian Branch,1985,2,46,SF,Maryland,Branch,Adrian
+171,9538,Elton Brand,1999,1,1,PF/C,Duke,Brand,Elton
+172,9539,Terrell Brandon,1991,1,11,PG,Oregon,Brandon,Terrell
+173,9541,Brad Branson,1980,2,45,F/C,SMU,Branson,Brad
+174,9550,Randy Breuer,1983,1,18,C,Minnesota,Breuer,Randy
+175,9551,Corey Brewer,1998,2,51,PG,Oklahoma,Brewer,Corey
+176,9551,Corey Brewer,2007,1,7,SF,Florida,Brewer,Corey
+177,9552,Jamison Brewer,2001,2,41,PG,Auburn,Brewer,Jamison
+178,9555,Ronnie Brewer,2006,1,14,SG,Arkansas,Brewer,Ronnie
+179,9567,Mike Brittain,1985,2,29,C,South Carolina,Brittain,Mike
+180,9569,Jon Brockman,2009,2,38,PF,Washington,Brockman,Jon
+181,9571,Malcolm Brogdon,2016,2,36,PG/SG,Virginia,Brogdon,Malcolm
+182,9575,Aaron Brooks,2007,1,26,PG,Oregon,Brooks,Aaron
+183,9576,Dillon Brooks,2017,2,45,SF,Oregon,Brooks,Dillon
+184,9577,Kevin Brooks,1991,1,18,SF,Southwestern Louisiana,Brooks,Kevin
+185,9578,MarShon Brooks,2011,1,25,SG,Providence,Brooks,MarShon
+186,9579,Michael Brooks,1980,1,9,F,La Salle,Brooks,Michael
+187,9582,Anthony Brown,2015,2,34,SF,Stanford,Brown,Anthony
+188,9585,Chucky Brown,1989,2,43,PF,North Carolina State,Brown,Chucky
+189,9586,Damone Brown,2001,2,37,SF,Syracuse,Brown,Damone
+190,9588,Dee Brown,2006,2,46,G,Illinois,Brown,Dee
+191,9588,Dee Brown,1990,1,19,SG,Jacksonville,Brown,Dee
+192,9589,Dee Brown,2006,2,46,G,Illinois,Brown,Dee
+193,9589,Dee Brown,1990,1,19,SG,Jacksonville,Brown,Dee
+194,9590,Derrick Brown,2009,2,40,SF,Xavier,Brown,Derrick
+195,9592,Ernest Brown,2000,2,52,C,Indian Hills CC,Brown,Ernest
+196,9598,Jaylen Brown,2016,1,3,SF/SG,California,Brown,Jaylen
+197,9600,Kedrick Brown,2001,1,11,SF,Okaloosa-Walton CC,Brown,Kedrick
+198,9601,Kwame Brown,2001,1,1,C,Glynn Academy,Brown,Kwame
+199,9605,Lorenzo Brown,2013,2,52,PG,NC State,Brown,Lorenzo
+200,9606,Marcus Brown,1996,2,46,G,Murray State,Brown,Marcus
+201,9607,Markel Brown,2014,2,44,SG,Oklahoma State,Brown,Markel
+202,9609,Myron Brown,1991,2,34,G,Slippery Rock,Brown,Myron
+203,9611,Randy Brown,1991,2,31,PG,New Mexico State,Brown,Randy
+204,9613,Rickey Brown,1980,1,13,F/C,Mississippi State,Brown,Rickey
+205,9616,Shannon Brown,2006,1,25,G,Michigan State,Brown,Shannon
+206,9618,Sterling Brown,2017,2,46,SG,SMU,Brown,Sterling
+207,9622,Stanley Brundy,1989,2,32,F,DePaul,Brundy,Stanley
+208,9629,Kobe Bryant,1996,1,13,G,Lower Merion HS,Bryant,Kobe
+209,9630,Mark Bryant,1988,1,21,PF,Seton Hall,Bryant,Mark
+210,9631,Thomas Bryant,2017,2,42,PF,Indiana,Bryant,Thomas
+211,9632,Wallace Bryant,1982,2,30,C,San Francisco,Bryant,Wallace
+212,9638,Greg Buckner,1998,2,53,SG,Clemson,Buckner,Greg
+213,9641,Chase Budinger,2009,2,44,SF,Arizona,Budinger,Chase
+214,9643,Jud Buechler,1990,2,38,F/G,Arizona,Buechler,Jud
+215,9644,Rodney Buford,1999,2,53,SG,Creighton,Buford,Rodney
+216,9646,Reggie Bullock,2013,1,25,SF,North Carolina,Bullock,Reggie
+217,9654,Trey Burke,2013,1,9,PG,Michigan,Burke,Trey
+218,9656,Alec Burks,2011,1,12,SG,Colorado,Burks,Alec
+219,9657,Antonio Burks,2004,2,36,PG,Memphis,Burks,Antonio
+220,9662,Evers Burns,1993,2,31,F,Maryland,Burns,Evers
+221,9664,Scott Burrell,1993,1,20,SF,Connecticut,Burrell,Scott
+222,9666,Junior Burrough,1995,2,33,F,Virginia,Burrough,Junior
+223,9669,Willie Burton,1990,1,9,SG,Minnesota,Burton,Willie
+224,9670,Steve Burtt,1984,2,30,G,Iona,Burtt,Steve
+225,9675,Caron Butler,2002,1,10,SF,Connecticut,Butler,Caron
+226,9676,Greg Butler,1988,2,37,C,Stanford,Butler,Greg
+227,9678,Jimmy Butler,2011,1,30,SG,Marquette,Butler,Jimmy
+228,9681,Rasual Butler,2002,2,53,SF,La Salle,Butler,Rasual
+229,9683,Derrick Byars,2007,2,42,SG,Vanderbilt,Byars,Derrick
+230,9684,Andrew Bynum,2005,1,10,C,St. Joseph HS,Bynum,Andrew
+231,9692,Bruno Caboclo,2014,1,20,SF,EC Pinheiros,Caboclo,Bruno
+232,9693,Jason Caffey,1995,1,20,PF,Alabama,Caffey,Jason
+233,9694,Michael Cage,1984,1,14,F/C,San Diego State,Cage,Michael
+234,9696,Nick Calathes,2009,2,45,PG,Florida,Calathes,Nick
+235,9701,Kentavious Caldwell-Pope,2013,1,8,SG,Georgia,Caldwell-Pope,Kentavious
+236,9710,Marcus Camby,1996,1,2,C,Massachusetts,Camby,Marcus
+237,9711,Elden Campbell,1990,1,27,PF/C,Clemson,Campbell,Elden
+238,9712,Tony Campbell,1984,1,20,G/F,Ohio State,Campbell,Tony
+239,9713,Isaiah Canaan,2013,2,34,PG,Murray State,Canaan,Isaiah
+240,9715,Clint Capela,2014,1,25,C,Ã‰lan Chalon,Capela,Clint
+241,9716,Derrick Caracter,2010,2,58,PF,UTEP,Caracter,Derrick
+242,9718,Brian Cardinal,2000,2,44,PF,Purdue,Cardinal,Brian
+243,9727,Rodney Carney,2006,1,16,SF,Memphis,Carney,Rodney
+244,9729,Antoine Carr,1983,1,8,PF,Wichita State,Carr,Antoine
+245,9731,Chris Carr,1995,2,56,G,Southern Illinois,Carr,Chris
+246,9732,Cory Carr,1998,2,49,SG,Texas Tech,Carr,Cory
+247,9737,DeMarre Carroll,2009,1,27,SF,Missouri,Carroll,DeMarre
+248,9738,Joe Barry Carroll,1980,1,1,F/C,Purdue,Carroll,Joe Barry
+249,9742,Butch Carter,1980,2,37,G,Indiana,Carter,Butch
+250,9745,Howard Carter,1983,1,15,SG,LSU,Carter,Howard
+251,9750,Vince Carter,1998,1,5,G/F,North Carolina,Carter,Vince
+252,9751,Michael Carter-Williams,2013,1,11,PG,Syracuse,Carter-Williams,Michael
+253,9757,Sam Cassell,1993,1,24,PG,Florida State,Cassell,Sam
+254,9758,Omri Casspi,2009,1,23,SF,Maccabi Tel Aviv,Casspi,Omri
+255,9760,Terry Catledge,1985,1,21,PF,South Alabama,Catledge,Terry
+256,9762,Kelvin Cato,1997,1,15,C,Iowa State,Cato,Kelvin
+257,9764,Willie Cauley-Stein,2015,1,6,C,Kentucky,Cauley-Stein,Willie
+258,9765,Duane Causwell,1990,1,18,C,Temple,Causwell,Duane
+259,9768,Cedric Ceballos,1990,2,48,F,Cal State Fullerton,Ceballos,Cedric
+260,9769,John Celestand,1999,2,30,PG,Villanova,Celestand,John
+261,9771,Lionel Chalmers,2004,2,33,PG,Xavier,Chalmers,Lionel
+262,9772,Mario Chalmers,2008,2,34,PG,Kansas,Chalmers,Mario
+263,9776,Tom Chambers,1981,1,8,F/C,Utah,Chambers,Tom
+264,9778,Tyson Chandler,2001,1,2,C,Dominguez HS,Chandler,Tyson
+265,9779,Wilson Chandler,2007,1,23,SF,DePaul,Chandler,Wilson
+266,9782,Rex Chapman,1988,1,8,SG,Kentucky,Chapman,Rex
+267,9786,Lorenzo Charles,1985,2,41,PF,NC State,Charles,Lorenzo
+268,9787,Calbert Cheaney,1993,1,6,SG/SF,Indiana,Cheaney,Calbert
+269,9791,Derrick Chievous,1988,1,16,SG,Missouri,Chievous,Derrick
+270,9792,Pete Chilcutt,1991,1,27,PF,North Carolina,Chilcutt,Pete
+271,9793,Josh Childress,2004,1,6,G/F,Stanford,Childress,Josh
+272,9794,Randolph Childress,1995,1,19,PG,Wake Forest,Childress,Randolph
+273,9798,Marquese Chriss,2016,1,8,PF,Washington,Chriss,Marquese
+274,9802,Doug Christie,1992,1,17,SG,Pepperdine,Christie,Doug
+275,9804,Rakeem Christmas,2015,2,36,PF/C,Syracuse,Christmas,Rakeem
+276,9805,Semaj Christon,2014,2,55,PG,Xavier,Christon,Semaj
+277,9811,Earl Clark,2009,1,14,SF,Louisville,Clark,Earl
+278,9813,Keon Clark,1998,1,13,F/C,UNLV,Clark,Keon
+279,9816,Jordan Clarkson,2014,2,46,PG,Missouri,Clarkson,Jordan
+280,9820,Charles Claxton,1994,2,50,C,Georgia,Claxton,Charles
+281,9821,Speedy Claxton,2000,1,20,PG,Hofstra,Claxton,Speedy
+282,9823,Mateen Cleaves,2000,1,14,PG,Michigan State,Cleaves,Mateen
+283,9835,Norris Cole,2011,1,28,PG,Cleveland State,Cole,Norris
+284,9836,Ben Coleman,1984,2,37,F,Maryland,Coleman,Ben
+285,9837,Derrick Coleman,1990,1,1,PF/C,Syracuse,Coleman,Derrick
+286,9840,Norris Coleman,1987,2,38,SF,Kansas State,Coleman,Norris
+287,9841,Bimbo Coles,1990,2,40,G,Virginia Tech,Coles,Bimbo
+288,9842,Jason Collier,2000,1,15,C,Georgia Tech,Collier,Jason
+289,9844,Don Collins,1980,1,18,G/F,Washington State,Collins,Don
+290,9846,James Collins,1997,2,36,PG/SG,Florida State,Collins,James
+291,9847,Jarron Collins,2001,2,53,F/C,Stanford,Collins,Jarron
+292,9848,Jason Collins,2001,1,18,C,Stanford,Collins,Jason
+293,9850,John Collins,2017,1,19,PF,Wake Forest,Collins,John
+294,9851,Mardy Collins,2006,1,29,G,Temple,Collins,Mardy
+295,9853,Zach Collins,2017,1,10,C/PF,Gonzaga,Collins,Zach
+296,9855,Darren Collison,2009,1,21,PG,UCLA,Collison,Darren
+297,9856,Nick Collison,2003,1,12,PF,Kansas,Collison,Nick
+298,9859,Steve Colter,1984,2,33,G,New Mexico State,Colter,Steve
+299,9861,Leroy Combs,1983,2,26,SF,Oklahoma State,Combs,Leroy
+300,9863,Dallas Comegys,1987,1,21,C,DePaul,Comegys,Dallas
+301,9868,Mike Conley,2007,1,4,PG,Ohio State,Conley,Mike
+302,9871,Pat Connaughton,2015,2,41,SF,Notre Dame,Connaughton,Pat
+303,9873,Lester Conner,1982,1,14,PG,Oregon State,Conner,Lester
+304,9876,Anthony Cook,1989,1,24,PF/C,Arizona,Cook,Anthony
+305,9879,Brian Cook,2003,1,24,PF,Illinois,Cook,Brian
+306,9880,Daequan Cook,2007,1,21,SG,Ohio State,Cook,Daequan
+307,9884,Omar Cook,2001,2,32,PG,St. John's,Cook,Omar
+308,9891,Duane Cooper,1992,2,36,G,USC,Cooper,Duane
+309,9899,Tyrone Corbin,1985,2,35,SF/PF,DePaul,Corbin,Tyrone
+310,9900,Chris Corchiani,1991,2,36,G,NC State,Corchiani,Chris
+311,9908,James Cotton,1997,2,32,SF,Long Beach State,Cotton,James
+312,9914,DeMarcus Cousins,2010,1,5,C,Kentucky,Cousins,DeMarcus
+313,9921,Allen Crabbe,2013,2,31,SG,California,Crabbe,Allen
+314,9923,Chris Crawford,1997,2,50,SF,Marquette,Crawford,Chris
+315,9925,Jamal Crawford,2000,1,8,SG,Michigan,Crawford,Jamal
+316,9926,Joe Crawford,2008,2,58,SG,Kentucky,Crawford,Joe
+317,9927,Jordan Crawford,2010,1,27,SG,Xavier,Crawford,Jordan
+318,9935,Javaris Crittenton,2007,1,19,PG,Georgia Tech,Crittenton,Javaris
+319,9940,Austin Croshere,1997,1,12,PF,Providence,Croshere,Austin
+320,9943,Russell Cross,1983,1,6,C,Purdue,Cross,Russell
+321,9949,Jae Crowder,2012,2,34,SF,Marquette,Crowder,Jae
+322,9952,Terry Cummings,1982,1,2,PF,DePaul,Cummings,Terry
+323,9953,Vonteego Cummings,1999,1,26,PG,Pittsburgh,Cummings,Vonteego
+324,9955,Dante Cunningham,2009,2,33,PF,Villanova,Cunningham,Dante
+325,9957,Jared Cunningham,2012,1,24,SG,Oregon St.,Cunningham,Jared
+326,9962,Bill Curley,1994,1,22,PF,Boston College,Curley,Bill
+327,9964,Dell Curry,1986,1,15,SG/SF,Virginia Tech,Curry,Dell
+328,9965,Eddy Curry,2001,1,4,C,Thornwood HS,Curry,Eddy
+329,9966,JamesOn Curry,2007,2,51,PG,Oklahoma State,Curry,JamesOn
+330,9969,Stephen Curry,2009,1,7,PG,Davidson,Curry,Stephen
+331,9974,Quintin Dailey,1982,1,7,SG,San Francisco,Dailey,Quintin
+332,9975,Samuel Dalembert,2001,1,26,C,Seton Hall,Dalembert,Samuel
+333,9977,Erick Dampier,1996,1,10,C,Mississippi State,Dampier,Erick
+334,9980,Antonio Daniels,1997,1,4,PG,Bowling Green,Daniels,Antonio
+335,9991,Yinka Dare,1994,1,14,C,George Washington,Dare,Yinka
+336,9996,Brad Daugherty,1986,1,1,C,North Carolina,Daugherty,Brad
+337,9999,Jermareo Davidson,2007,2,36,PF,Alabama,Davidson,Jermareo
+338,10002,Anthony Davis,2012,1,1,PF/C,Kentucky,Davis,Anthony
+339,10003,Antonio Davis,1990,2,45,F/C,UTEP,Davis,Antonio
+340,10005,Baron Davis,1999,1,3,PG,UCLA,Davis,Baron
+341,10006,Ben Davis,1996,2,43,F,Arizona,Davis,Ben
+342,10010,Brian Davis,1992,2,48,F/G,Duke,Davis,Brian
+343,10011,Charles Davis,1981,2,35,F,Vanderbilt,Davis,Charles
+344,10013,Dale Davis,1991,1,13,PF,Clemson,Davis,Dale
+345,10014,Deyonta Davis,2016,2,31,PF/C,Michigan State,Davis,Deyonta
+346,10016,Ed Davis,2010,1,13,PF,North Carolina,Davis,Ed
+347,10018,Glen Davis,2007,2,35,PF,LSU,Davis,Glen
+348,10020,Hubert Davis,1992,1,20,SG,North Carolina,Davis,Hubert
+349,10025,Mark Davis,1995,2,48,G/F,Texas Tech,Davis,Mark
+350,10026,Mark Davis,1995,2,48,G/F,Texas Tech,Davis,Mark
+351,10029,Mike Davis,1983,2,42,SG,Alabama,Davis,Mike
+352,10030,Mike Davis,1983,2,42,SG,Alabama,Davis,Mike
+353,10031,Monti Davis,1980,1,21,F,Tennessee State,Davis,Monti
+354,10032,Paul Davis,2006,2,34,C,Michigan State,Davis,Paul
+355,10035,Ricky Davis,1998,1,21,G/F,Iowa,Davis,Ricky
+356,10044,Johnny Dawkins,1986,1,10,PG,Duke,Dawkins,Johnny
+357,10046,Branden Dawson,2015,2,56,SF,Michigan State,Dawson,Branden
+358,10050,Todd Day,1992,1,8,SG,Arkansas,Day,Todd
+359,10051,Austin Daye,2009,1,15,SF,Gonzaga,Daye,Austin
+360,10057,Andrew DeClercq,1995,2,34,PF/C,Florida,DeClercq,Andrew
+361,10061,Terry Dehere,1993,1,13,SG,Seton Hall,Dehere,Terry
+362,10064,Sam Dekker,2015,1,18,SF,Wisconsin,Dekker,Sam
+363,10065,Vinny Del Negro,1988,2,29,SG,NC State,Del Negro,Vinny
+364,10068,Carlos Delfino,2003,1,25,SG,Skipper Bologna,Delfino,Carlos
+365,10069,Tony Delk,1996,1,16,G,Kentucky,Delk,Tony
+366,10072,Fennis Dembo,1988,2,30,PF,Wyoming,Dembo,Fennis
+367,10076,Luol Deng,2004,1,7,SF,Duke,Deng,Luol
+368,10083,DeMar DeRozan,2009,1,9,SG,USC,DeRozan,DeMar
+369,10087,Derrick Dial,1998,2,52,SG,Eastern Michigan,Dial,Derrick
+370,10088,Cheick Diallo,2016,2,33,PF/C,Kansas,Diallo,Cheick
+371,10089,Boris Diaw,2003,1,21,PF,Pau-Orthez,Diaw,Boris
+372,10091,Guillermo Diaz,2006,2,52,G,Miami (FL),Diaz,Guillermo
+373,10092,Dan Dickau,2002,1,28,PG,Gonzaga,Dickau,Dan
+374,10093,Kaniel Dickens,2000,2,50,F,Idaho,Dickens,Kaniel
+375,10095,Michael Dickerson,1998,1,14,SG,Arizona,Dickerson,Michael
+376,10100,Travis Diener,2005,2,38,G,Marquette,Diener,Travis
+377,10101,Gorgui Dieng,2013,1,21,C,Louisville,Dieng,Gorgui
+378,10114,Spencer Dinwiddie,2014,2,38,PG/SG,Colorado,Dinwiddie,Spencer
+379,10115,Ike Diogu,2005,1,9,F,Arizona State,Diogu,Ike
+380,10116,DeSagana Diop,2001,1,8,C,Oak Hill Academy,Diop,DeSagana
+381,10119,Vlade Divac,1989,1,26,C,KK Partizan,Divac,Vlade
+382,10120,Juan Dixon,2002,1,17,PG,Maryland,Dixon,Juan
+383,10123,Michael Doleac,1998,1,12,C,Utah,Doleac,Michael
+384,10130,Keyon Dooling,2000,1,10,SG,Missouri,Dooling,Keyon
+385,10132,Joey Dorsey,2008,2,33,PF,Memphis,Dorsey,Joey
+386,10134,Tyler Dorsey,2017,2,41,SG,Oregon,Dorsey,Tyler
+387,10135,Damyean Dotson,2017,2,44,SG,Houston,Dotson,Damyean
+388,10136,Quincy Douby,2006,1,19,G,Rutgers,Douby,Quincy
+389,10140,Sherman Douglas,1989,2,28,G,Syracuse,Douglas,Sherman
+390,10141,Toney Douglas,2009,1,29,PG,Florida State,Douglas,Toney
+391,10142,Chris Douglas-Roberts,2008,2,40,SG,Memphis,Douglas-Roberts,Chris
+392,10152,Greg Dreiling,1986,2,26,C,Kansas,Dreiling,Greg
+393,10153,Bryce Drew,1998,1,16,PG,ValparaÃ­so,Drew,Bryce
+394,10155,Larry Drew,1980,1,17,G,Missouri,Drew,Larry
+395,10156,Larry Drew,1980,1,17,G,Missouri,Drew,Larry
+396,10157,Clyde Drexler,1983,1,14,SG,Houston,Drexler,Clyde
+397,10160,Predrag Drobnjak,1997,2,48,C,KK Partizan,Drobnjak,Predrag
+398,10162,Andre Drummond,2012,1,9,C,Connecticut,Drummond,Andre
+399,10164,Kevin Duckworth,1986,2,33,C,Eastern Illinois,Duckworth,Kevin
+400,10167,Jared Dudley,2007,1,22,SF,Boston College,Dudley,Jared
+401,10171,Chris Duhon,2004,2,38,PG,Duke,Duhon,Chris
+402,10174,Joe Dumars,1985,1,18,SG,McNeese State,Dumars,Joe
+403,10176,Richard Dumas,1991,2,46,F,Hapoel Holon,Dumas,Richard
+404,10177,Tony Dumas,1994,1,19,SG,UMKC,Dumas,Tony
+405,10179,Tim Duncan,1997,1,1,PF/C,Wake Forest,Duncan,Tim
+406,10182,Kris Dunn,2016,1,5,PG,Providence,Dunn,Kris
+407,10186,Kevin Durant,2007,1,2,SF,Texas,Durant,Kevin
+408,10187,John Duren,1980,1,19,G,Georgetown,Duren,John
+409,10189,Pat Durham,1989,2,35,F,Colorado State,Durham,Pat
+410,10190,Devin Durrant,1984,2,25,F,Brigham Young,Durrant,Devin
+411,10197,Ledell Eackles,1988,2,36,G/F,New Orleans,Eackles,Ledell
+412,10199,Acie Earl,1993,1,19,C,Iowa,Earl,Acie
+413,10201,Cleanthony Early,2014,2,34,SF,Wichita State,Early,Cleanthony
+414,10205,Devin Ebanks,2010,2,43,SF,West Virginia,Ebanks,Devin
+415,10208,Ndudi Ebi,2003,1,26,SF,Westbury Christian HS,Ebi,Ndudi
+416,10216,Keith Edmonson,1982,1,10,SG,Purdue,Edmonson,Keith
+417,10217,Tyus Edney,1995,2,47,PG,UCLA,Edney,Tyus
+418,10219,Blue Edwards,1989,1,21,SF/SG,East Carolina,Edwards,Blue
+419,10220,Corsley Edwards,2002,2,58,PF,Central Connecticut,Edwards,Corsley
+420,10221,Doug Edwards,1993,1,15,SF,Florida State,Edwards,Doug
+421,10222,Franklin Edwards,1981,1,22,G,Cleveland State,Edwards,Franklin
+422,10224,Jay Edwards,1989,2,33,G,Indiana,Edwards,Jay
+423,10226,Kevin Edwards,1988,1,20,SG,DePaul,Edwards,Kevin
+424,10233,Howard Eisley,1994,2,30,PG,Boston College,Eisley,Howard
+425,10234,Obinna Ekezie,1999,2,37,C,Maryland,Ekezie,Obinna
+426,10235,Khalid El-Amin,2000,2,34,PG,Connecticut,El-Amin,Khalid
+427,10239,Henry Ellenson,2016,1,18,PF,Marquette,Ellenson,Henry
+428,10240,Wayne Ellington,2009,1,28,SG,North Carolina,Ellington,Wayne
+429,10242,Sean Elliott,1989,1,3,SF/SG,Arizona,Elliott,Sean
+430,10245,Dale Ellis,1983,1,9,SG,Tennessee,Ellis,Dale
+431,10248,LaPhonso Ellis,1992,1,5,PF,Notre Dame,Ellis,LaPhonso
+432,10249,LeRon Ellis,1991,1,22,PF,Syracuse,Ellis,LeRon
+433,10251,Monta Ellis,2005,2,40,SG,Lanier HS,Ellis,Monta
+434,10252,Pervis Ellison,1989,1,1,PF,Louisville,Ellison,Pervis
+435,10254,Francisco Elson,1999,2,41,C,California,Elson,Francisco
+436,10256,Melvin Ely,2002,1,12,C/PF,Fresno State,Ely,Melvin
+437,10257,Joel Embiid,2014,1,3,C,Kansas,Embiid,Joel
+438,10259,Andre Emmett,2004,2,35,F/G,Texas Tech,Emmett,Andre
+439,10263,A.J. English,1990,2,37,G,Virginia Union,English,A.J.
+440,10267,Kim English,2012,2,44,SG,Missouri,English,Kim
+441,10270,James Ennis,2013,2,50,SF,Long Beach State,Ennis,James
+442,10271,Tyler Ennis,2014,1,18,PG,Syracuse,Ennis,Tyler
+443,10273,Semih Erden,2008,2,60,C,FenerbahÃ§e Ãœlker,Erden,Semih
+444,10277,Evan Eschmeyer,1999,2,34,C,Northwestern,Eschmeyer,Evan
+445,10282,Brian Evans,1996,1,27,F,Indiana,Evans,Brian
+446,10284,Jawun Evans,2017,2,39,PG,Oklahoma State,Evans,Jawun
+447,10285,Jeremy Evans,2010,2,55,PF,WKU,Evans,Jeremy
+448,10289,Tyreke Evans,2009,1,4,SG,Memphis,Evans,Tyreke
+449,10290,Daniel Ewing,2005,2,32,G,Duke,Ewing,Daniel
+450,10291,Patrick Ewing,1985,1,1,C,Georgetown,Ewing,Patrick
+451,10292,Patrick Ewing,1985,1,1,C,Georgetown,Ewing,Patrick
+452,10293,Dante Exum,2014,1,5,PG/SG,Australian Institute of Sport,Exum,Dante
+453,10294,Christian Eyenga,2009,1,30,SF,CB Prat,Eyenga,Christian
+454,10295,Festus Ezeli,2012,1,30,C,Vanderbilt,Ezeli,Festus
+455,10300,Kenneth Faried,2011,1,22,PF,Morehead State,Faried,Kenneth
+456,10302,Jordan Farmar,2006,1,26,G,UCLA,Farmar,Jordan
+457,10304,Jim Farmer,1987,1,20,SG,Alabama,Farmer,Jim
+458,10309,Derrick Favors,2010,1,3,PF,Georgia Tech,Favors,Derrick
+459,10310,Nick Fazekas,2007,2,34,PF,Nevada,Fazekas,Nick
+460,10314,Jamie Feick,1996,2,48,F,Michigan State,Feick,Jamie
+461,10317,Dave Feitl,1986,2,43,C,UTEP,Feitl,Dave
+462,10318,Kay Felder,2016,2,54,PG,Oakland,Felder,Kay
+463,10320,Carrick Felix,2013,2,33,SG,Arizona State,Felix,Carrick
+464,10323,Raymond Felton,2005,1,5,G,North Carolina,Felton,Raymond
+465,10327,Terrance Ferguson,2017,1,21,SG,Adelaide 36ers,Ferguson,Terrance
+466,10331,Rolando Ferreira,1988,2,26,C,Houston,Ferreira,Rolando
+467,10336,Danny Ferry,1989,1,2,PF,Duke,Ferry,Danny
+468,10337,Kyrylo Fesenko,2007,2,38,C,SK Cherkassy,Fesenko,Kyrylo
+469,10339,Kenny Fields,1984,1,21,G/F,UCLA,Fields,Kenny
+470,10340,Landry Fields,2010,2,39,SG,Stanford,Fields,Landry
+471,10345,Michael Finley,1995,1,21,SF/SG,Wisconsin,Finley,Michael
+472,10348,Matt Fish,1992,2,50,F,UNC-Wilmington,Fish,Matt
+473,10349,Derek Fisher,1996,1,24,G,Arkansas-Little Rock,Fisher,Derek
+474,10354,Marcus Fizer,2000,1,4,PF/SF,Iowa State,Fizer,Marcus
+475,10358,Vern Fleming,1984,1,18,G,Georgia,Fleming,Vern
+476,10359,Luis Flores,2004,2,55,PG,Manhattan,Flores,Luis
+477,10361,Sleepy Floyd,1982,1,13,SG,Georgetown,Floyd,Sleepy
+478,10362,Jonny Flynn,2009,1,6,PG,Syracuse,Flynn,Jonny
+479,10371,Alphonso Ford,1993,2,32,SG,Mississippi Valley State,Ford,Alphonso
+480,10372,Alton Ford,2001,2,51,PF,Houston,Ford,Alton
+481,10379,Sherell Ford,1995,1,26,PF,UIC,Ford,Sherell
+482,10383,Joseph Forte,2001,1,21,SG,North Carolina,Forte,Joseph
+483,10385,Danny Fortson,1997,1,10,PF,Cincinnati,Fortson,Danny
+484,10387,Greg Foster,1990,2,35,F/C,UTEP,Foster,Greg
+485,10388,Jeff Foster,1999,1,21,PF,Southwest Texas State,Foster,Jeff
+486,10390,Rod Foster,1983,2,28,PG,UCLA,Foster,Rod
+487,10391,Antonis Fotsis,2001,2,48,SF,Panathinaikos,Fotsis,Antonis
+488,10392,Evan Fournier,2012,1,20,SG,Poitiers Basket,Fournier,Evan
+489,10396,Tremaine Fowlkes,1998,2,54,SF,Fresno State,Fowlkes,Tremaine
+490,10397,De'Aaron Fox,2017,1,5,PG,Kentucky,Fox,De'Aaron
+491,10400,Rick Fox,1991,1,24,SF,North Carolina,Fox,Rick
+492,10401,Randy Foye,2006,1,7,SG,Villanova,Foye,Randy
+493,10402,Adonal Foyle,1997,1,8,C,Colgate,Foyle,Adonal
+494,10404,Steve Francis,1999,1,2,PG,Maryland,Francis,Steve
+495,10405,Tellis Frank,1987,1,14,PF,WKU,Frank,Tellis
+496,10407,Jamaal Franklin,2013,2,41,SG,San Diego State,Franklin,Jamaal
+497,10414,Jimmer Fredette,2011,1,10,PG/SG,BYU,Fredette,Jimmer
+498,10416,Joel Freeland,2006,1,30,F,Gran Canaria,Freeland,Joel
+499,10420,Matt Freije,2004,2,53,SF,Vanderbilt,Freije,Matt
+500,10425,Channing Frye,2005,1,8,C,Arizona,Frye,Channing
+501,10432,Todd Fuller,1996,1,11,C,NC State,Fuller,Todd
+502,10434,Markelle Fultz,2017,1,1,PG/SG,Washington,Fultz,Markelle
+503,10435,Lawrence Funderburke,1994,2,51,PF,Ohio State,Funderburke,Lawrence
+504,10438,Dan Gadzuric,2002,2,34,C,UCLA,Gadzuric,Dan
+505,10444,Reece Gaines,2003,1,15,F/G,Louisville,Gaines,Reece
+506,10447,Chad Gallagher,1991,2,32,C,Creighton,Gallagher,Chad
+507,10449,Danilo Gallinari,2008,1,6,SF,Olimpia Milano,Gallinari,Danilo
+508,10466,Winston Garland,1987,2,40,PG,Southwest Missouri State,Garland,Winston
+509,10470,Bill Garnett,1982,1,4,SF,Wyoming,Garnett,Bill
+510,10471,Kevin Garnett,1995,1,5,PF,Farragut Academy HS,Garnett,Kevin
+511,10474,Dean Garrett,1988,2,38,C,Indiana,Garrett,Dean
+512,10478,Tom Garrick,1988,2,45,G,Rhode Island,Garrick,Tom
+513,10479,John Garris,1983,2,27,PF,Boston College,Garris,John
+514,10481,Pat Garrity,1998,1,19,PF,Notre Dame,Garrity,Pat
+515,10483,Marc Gasol,2007,2,48,C,Akasvayu Girona,Gasol,Marc
+516,10484,Pau Gasol,2001,1,3,PF/C,FC Barcelona,Gasol,Pau
+517,10486,Chris Gatling,1991,1,16,PF,Old Dominion,Gatling,Chris
+518,10488,Rudy Gay,2006,1,8,SF,Connecticut,Gay,Rudy
+519,10491,Michael Gbinije,2016,2,49,SF,Syracuse,Gbinije,Michael
+520,10492,Reggie Geary,1996,2,56,G,Arizona,Geary,Reggie
+521,10494,Matt Geiger,1992,2,42,C,Georgia Tech,Geiger,Matt
+522,10496,Devean George,1999,1,23,SF,Augsburg,George,Devean
+523,10498,Paul George,2010,1,10,SF,Fresno State,George,Paul
+524,10499,Tate George,1990,1,22,SG,Connecticut,George,Tate
+525,10507,Daniel Gibson,2006,2,42,G,Texas,Gibson,Daniel
+526,10512,Mike Gibson,1982,2,44,F,USC Upstate,Gibson,Mike
+527,10513,Taj Gibson,2009,1,26,PF,USC,Gibson,Taj
+528,10517,Kendall Gill,1990,1,5,SG,Illinois,Gill,Kendall
+529,10521,Armen Gilliam,1987,1,2,PF,UNLV,Gilliam,Armen
+530,10531,Gerald Glass,1990,1,20,SF/SG,Ole Miss,Glass,Gerald
+531,10536,Dion Glover,1999,1,20,SG,Georgia Tech,Glover,Dion
+532,10537,Andreas Glyniadakis,2003,2,58,C,AEK,Glyniadakis,Andreas
+533,10538,Mike Gminski,1980,1,7,C,Duke,Gminski,Mike
+534,10539,Rudy Gobert,2013,1,27,C,Cholet Basket,Gobert,Rudy
+535,10543,Anthony Goldwire,1994,2,52,PG,Houston,Goldwire,Anthony
+536,10544,Ryan Gomes,2005,2,50,F,Providence,Gomes,Ryan
+537,10547,Drew Gooden,2002,1,4,PF/C,Kansas,Gooden,Drew
+538,10550,Archie Goodwin,2013,1,29,SG,Kentucky,Goodwin,Archie
+539,10552,Aaron Gordon,2014,1,4,PF,Arizona,Gordon,Aaron
+540,10553,Ben Gordon,2004,1,3,SG,Connecticut,Gordon,Ben
+541,10555,Eric Gordon,2008,1,7,SG,Indiana,Gordon,Eric
+542,10556,Lancaster Gordon,1984,1,8,G,Louisville,Gordon,Lancaster
+543,10558,Marcin Gortat,2005,2,57,F/C,RheinEnergie KÃ¶ln,Gortat,Marcin
+544,10560,Andrew Goudelock,2011,2,46,PG,College of Charleston,Goudelock,Andrew
+545,10566,Greg Graham,1993,1,17,SG,Indiana,Graham,Greg
+546,10567,Joey Graham,2005,1,16,F,Oklahoma State,Graham,Joey
+547,10569,Orlando Graham,1988,2,40,F,Auburn-Montgomery,Graham,Orlando
+548,10575,Danny Granger,2005,1,17,SF,New Mexico,Granger,Danny
+549,10576,Stewart Granger,1983,1,24,PG,Villanova,Granger,Stewart
+550,10577,Brian Grant,1994,1,8,PF,Xavier,Grant,Brian
+551,10579,Gary Grant,1988,1,15,PG,Michigan,Grant,Gary
+552,10580,Greg Grant,1989,2,52,G,Trenton State,Grant,Greg
+553,10581,Harvey Grant,1988,1,12,SF,Oklahoma,Grant,Harvey
+554,10582,Horace Grant,1987,1,10,PF/C,Clemson,Grant,Horace
+555,10583,Jerami Grant,2014,2,39,SF,Syracuse,Grant,Jerami
+556,10584,Jerian Grant,2015,1,19,PG,Notre Dame,Grant,Jerian
+557,10585,Josh Grant,1993,2,43,PF,Utah,Grant,Josh
+558,10586,Paul Grant,1997,1,20,C,Wisconsin,Grant,Paul
+559,10590,Aaron Gray,2007,2,49,C,Pittsburgh,Gray,Aaron
+560,10592,Ed Gray,1997,1,22,PG/SG,California,Gray,Ed
+561,10596,Stuart Gray,1984,2,29,F/C,UCLA,Gray,Stuart
+562,10597,Sylvester Gray,1988,2,35,F,Memphis State,Gray,Sylvester
+563,10599,Jeff Grayer,1988,1,13,PG,Iowa State,Grayer,Jeff
+564,10602,Danny Green,2009,2,46,SF,North Carolina,Green,Danny
+565,10604,Draymond Green,2012,2,35,PF,Michigan St.,Green,Draymond
+566,10605,Erick Green,2013,2,46,PG,Virginia Tech,Green,Erick
+567,10606,Gerald Green,2005,1,18,G/F,Gulf Shores Academy,Green,Gerald
+568,10608,Jeff Green,2007,1,5,SF,Georgetown,Green,Jeff
+569,10610,Ken Green,1981,2,34,F,Pan American,Green,Ken
+570,10611,Kenny Green,1985,1,12,F,Wake Forest,Green,Kenny
+571,10613,Litterial Green,1992,2,39,G,Georgia,Green,Litterial
+572,10617,Sean Green,1991,2,41,F/G,Iona,Green,Sean
+573,10619,Sidney Green,1983,1,5,PF,UNLV,Green,Sidney
+574,10621,Taurean Green,2007,2,52,PG,Florida,Green,Taurean
+575,10623,Willie Green,2003,2,41,SG,Detroit,Green,Willie
+576,10625,Orien Greene,2005,2,53,G,Louisiana-Lafayette,Greene,Orien
+577,10631,Claude Gregory,1981,2,41,F,Wisconsin,Gregory,Claude
+578,10637,Blake Griffin,2009,1,1,PF,Oklahoma,Griffin,Blake
+579,10638,Eddie Griffin,2001,1,7,PF,Seton Hall,Griffin,Eddie
+580,10641,Taylor Griffin,2009,2,48,SF,Oklahoma,Griffin,Taylor
+581,10642,Darrell Griffith,1980,1,2,G,Louisville,Griffith,Darrell
+582,10657,Tom Gugliotta,1992,1,6,PF,NC State,Gugliotta,Tom
+583,10666,A.J. Guyton,2000,2,32,PG,Indiana,Guyton,A.J.
+584,10670,Scott Haffner,1989,2,45,G,Evansville,Haffner,Scott
+585,10678,Malik Hairston,2008,2,48,SG,Oregon,Hairston,Malik
+586,10680,Marcus Haislip,2002,1,13,PF,Tennessee,Haislip,Marcus
+587,10690,Steve Hamer,1996,2,38,C,Tennessee,Hamer,Steve
+588,10692,Daniel Hamilton,2016,2,56,SG/SF,Connecticut,Hamilton,Daniel
+589,10695,Jordan Hamilton,2011,1,26,SG,Texas,Hamilton,Jordan
+590,10696,Justin Hamilton,2012,2,45,C,LSU,Hamilton,Justin
+591,10698,Richard Hamilton,1999,1,7,SG/SF,Connecticut,Hamilton,Richard
+592,10704,Geert Hammink,1993,1,26,C,LSU,Hammink,Geert
+593,10706,Tom Hammonds,1989,1,9,PF/C,Georgia Tech,Hammonds,Tom
+594,10709,Darrin Hancock,1994,2,38,G/F,Kansas,Hancock,Darrin
+595,10717,Tyler Hansbrough,2009,1,13,PF,North Carolina,Hansbrough,Tyler
+596,10721,Travis Hansen,2003,2,37,SG,BYU,Hansen,Travis
+597,10723,Bill Hanzlik,1980,1,20,G/F,Notre Dame,Hanzlik,Bill
+598,10724,Luke Harangody,2010,2,52,PF,Notre Dame,Harangody,Luke
+599,10728,James Harden,2009,1,3,SG,Arizona State,Harden,James
+600,10736,Maurice Harkless,2012,1,15,SF,St. John's,Harkless,Maurice
+601,10740,Derek Harper,1983,1,11,PG/SG,Illinois,Harper,Derek
+602,10741,Justin Harper,2011,2,32,PF,Richmond,Harper,Justin
+603,10743,Ron Harper,1986,1,8,SF,Miami (OH),Harper,Ron
+604,10744,Matt Harpring,1998,1,15,F/G,Georgia Tech,Harpring,Matt
+605,10745,Montrezl Harrell,2015,2,32,PF,Louisville,Harrell,Montrezl
+606,10746,Josh Harrellson,2011,2,45,C,Kentucky,Harrellson,Josh
+607,10748,Al Harrington,1998,1,25,F,St. Patrick's High School,Harrington,Al
+608,10750,Othella Harrington,1996,2,30,F/C,Georgetown,Harrington,Othella
+609,10756,Devin Harris,2004,1,5,PG,Wisconsin,Harris,Devin
+610,10758,Gary Harris,2014,1,19,SG,Michigan State,Harris,Gary
+611,10759,Joe Harris,2014,2,33,SG,Virginia,Harris,Joe
+612,10760,Lucious Harris,1993,2,28,PG,Long Beach State,Harris,Lucious
+613,10763,Steve Harris,1985,1,19,SG,Tulsa,Harris,Steve
+614,10765,Tobias Harris,2011,1,19,SF,Tennessee,Harris,Tobias
+615,10768,Andrew Harrison,2015,2,44,PG,Kentucky,Harrison,Andrew
+616,10770,David Harrison,2004,1,29,C,Colorado,Harrison,David
+617,10771,Jason Hart,2000,2,49,PG,Syracuse,Hart,Jason
+618,10772,Josh Hart,2017,1,30,SG,Villanova,Hart,Josh
+619,10774,Donnell Harvey,2000,1,22,SF,Florida,Harvey,Donnell
+620,10775,Scott Haskin,1993,1,14,PF,Oregon State,Haskin,Scott
+621,10778,Trenton Hassell,2001,2,30,SG,Austin Peay,Hassell,Trenton
+622,10781,Scott Hastings,1982,2,29,F/C,Arkansas,Hastings,Scott
+623,10782,Kirk Haston,2001,1,16,PF,Indiana,Haston,Kirk
+624,10785,Spencer Hawes,2007,1,10,C,Washington,Hawes,Spencer
+625,10788,Hersey Hawkins,1988,1,6,SG,Bradley,Hawkins,Hersey
+626,10797,Jarvis Hayes,2003,1,10,F/G,Georgia,Hayes,Jarvis
+627,10800,Gordon Hayward,2010,1,9,SF,Butler,Hayward,Gordon
+628,10801,Lazar Hayward,2010,1,30,SF,Marquette,Hayward,Lazar
+629,10802,Brendan Haywood,2001,1,20,C,North Carolina,Haywood,Brendan
+630,10806,Luther Head,2005,1,24,G,Illinois,Head,Luther
+631,10814,Alan Henderson,1995,1,16,PF,Indiana,Henderson,Alan
+632,10815,Cedric Henderson,1986,2,32,PF,Georgia,Henderson,Cedric
+633,10815,Cedric Henderson,1997,2,44,PF,Memphis,Henderson,Cedric
+634,10816,Cedric Henderson,1986,2,32,PF,Georgia,Henderson,Cedric
+635,10816,Cedric Henderson,1997,2,44,PF,Memphis,Henderson,Cedric
+636,10818,Gerald Henderson,2009,1,12,SG,Duke,Henderson,Gerald
+637,10819,Gerald Henderson,2009,1,12,SG,Duke,Henderson,Gerald
+638,10824,Mark Hendrickson,1996,2,31,G,Washington State,Hendrickson,Mark
+639,10832,Xavier Henry,2010,1,12,SG,Kansas,Henry,Xavier
+640,10833,John Henson,2012,1,14,PF,North Carolina,Henson,John
+641,10834,Steve Henson,1990,2,44,G,Kansas State,Henson,Steve
+642,10840,Chris Herren,1999,2,33,G,Fresno State,Herren,Chris
+643,10841,Carl Herrera,1990,2,30,PF,Houston,Herrera,Carl
+644,10850,Mario Hezonja,2015,1,5,SG/SF,FC Barcelona,Hezonja,Mario
+645,10851,Roy Hibbert,2008,1,17,C,Georgetown,Hibbert,Roy
+646,10855,Buddy Hield,2016,1,6,SG,Oklahoma,Hield,Buddy
+647,10860,Rod Higgins,1982,2,31,F/C,Fresno State,Higgins,Rod
+648,10861,Sean Higgins,1990,2,54,G/F,Michigan,Higgins,Sean
+649,10869,George Hill,2008,1,26,PG,IUPUI,Hill,George
+650,10870,Grant Hill,1994,1,3,SF,Duke,Hill,Grant
+651,10871,Jordan Hill,2009,1,8,PF,Arizona,Hill,Jordan
+652,10873,Solomon Hill,2013,1,23,SF,Arizona,Hill,Solomon
+653,10875,Tyrone Hill,1990,1,11,PF,Xavier,Hill,Tyrone
+654,10877,Darrun Hilliard,2015,2,38,SG,Villanova,Hilliard,Darrun
+655,10880,Kirk Hinrich,2003,1,7,PG,Kansas,Hinrich,Kirk
+656,10881,Roy Hinson,1983,1,20,C,Rutgers,Hinson,Roy
+657,10885,Darington Hobson,2010,2,37,SF,New Mexico,Hobson,Darington
+658,10886,Donald Hodge,1991,2,33,C,Temple,Hodge,Donald
+659,10887,Julius Hodge,2005,1,20,G,NC State,Hodge,Julius
+660,10893,Fred Hoiberg,1995,2,52,SG,Iowa State,Hoiberg,Fred
+661,10895,Randy Holcomb,2002,2,57,PF,San Diego State,Holcomb,Randy
+662,10896,Jrue Holiday,2009,1,17,PG,UCLA,Holiday,Jrue
+663,10903,Ryan Hollins,2006,2,50,C,UCLA,Hollins,Ryan
+664,10905,Rondae Hollis-Jefferson,2015,1,23,SF,Arizona,Hollis-Jefferson,Rondae
+665,10907,Richaun Holmes,2015,2,37,SF/PF,Bowling Green,Holmes,Richaun
+666,10914,Jerald Honeycutt,1997,2,38,PF,Tulane,Honeycutt,Jerald
+667,10915,Tyler Honeycutt,2011,2,35,SF,UCLA,Honeycutt,Tyler
+668,10917,Rodney Hood,2014,1,23,SG,Duke,Hood,Rodney
+669,10923,Dennis Hopson,1987,1,3,SF,Ohio State,Hopson,Dennis
+670,10927,Al Horford,2007,1,3,C,Florida,Horford,Al
+671,10928,Tito Horford,1988,2,39,C,Miami (FL),Horford,Tito
+672,10930,Jeff Hornacek,1986,2,46,SG,Iowa State,Hornacek,Jeff
+673,10932,Robert Horry,1992,1,11,SF,Alabama,Horry,Robert
+674,10933,Ed Horton,1989,2,39,PF/C,Iowa,Horton,Ed
+675,10937,Eddie House,2000,2,37,SG,Arizona State,House,Eddie
+676,10938,Allan Houston,1993,1,11,SG,Tennessee,Houston,Allan
+677,10939,Byron Houston,1992,1,27,PF,Oklahoma State,Houston,Byron
+678,10942,Dwight Howard,2004,1,1,C,Southwest Atlanta Christian Academy,Howard,Dwight
+679,10944,Josh Howard,2003,1,29,F/G,Wake Forest,Howard,Josh
+680,10945,Juwan Howard,1994,1,5,PF,Michigan,Howard,Juwan
+681,10952,Lester Hudson,2009,2,58,PG,Tennessee-Martin,Hudson,Lester
+682,10956,Josh Huestis,2014,1,29,SF/PF,Stanford,Huestis,Josh
+683,10958,Alfredrick Hughes,1985,1,14,SG,Loyola (IL),Hughes,Alfredrick
+684,10961,Larry Hughes,1998,1,8,SG,Saint Louis,Hughes,Larry
+685,10963,Robbie Hummel,2012,2,58,SF,Purdue,Hummel,Robbie
+686,10965,Ryan Humphrey,2002,1,19,PF,Notre Dame,Humphrey,Ryan
+687,10966,Jay Humphries,1984,1,13,G,Colorado,Humphries,Jay
+688,10967,Kris Humphries,2004,1,14,PF,Minnesota,Humphries,Kris
+689,10969,Brandon Hunter,2003,2,56,PF,Ohio,Hunter,Brandon
+690,10973,Lindsey Hunter,1993,1,10,PG,Jackson State,Hunter,Lindsey
+691,10976,Steven Hunter,2001,1,15,C,DePaul,Hunter,Steven
+692,10978,Bobby Hurley,1993,1,7,PG,Duke,Hurley,Bobby
+693,10986,Serge Ibaka,2008,1,24,PF,L'Hospitalet,Ibaka,Serge
+694,10987,Andre Iguodala,2004,1,9,SF,Arizona,Iguodala,Andre
+695,10995,Damien Inglis,2014,2,31,SF,Chorale Roanne,Inglis,Damien
+696,10996,Brandon Ingram,2016,1,2,SF,Duke,Ingram,Brandon
+697,10999,Byron Irvin,1989,1,22,SG,Missouri,Irvin,Byron
+698,11001,Kyrie Irving,2011,1,1,PG,Duke,Irving,Kyrie
+699,11002,Jonathan Isaac,2017,1,6,SF/PF,Florida State,Isaac,Jonathan
+700,11004,Mike Iuzzolino,1991,2,35,G,Saint Francis (PA),Iuzzolino,Mike
+701,11005,Allen Iverson,1996,1,1,G,Georgetown,Iverson,Allen
+702,11007,Royal Ivey,2004,2,37,PG,Texas,Ivey,Royal
+703,11011,Jarrett Jack,2005,1,22,G,Georgia Tech,Jack,Jarrett
+704,11013,Bobby Jackson,1997,1,23,PG,Minnesota,Jackson,Bobby
+705,11015,Darnell Jackson,2008,2,52,PF,Kansas,Jackson,Darnell
+706,11016,Demetrius Jackson,2016,2,45,PG,Notre Dame,Jackson,Demetrius
+707,11021,Josh Jackson,2017,1,4,SF,Kansas,Jackson,Josh
+708,11022,Justin Jackson,2017,1,15,SF,North Carolina,Jackson,Justin
+709,11023,Luke Jackson,2004,1,10,SF,Oregon,Jackson,Luke
+710,11024,Luke Jackson,2004,1,10,SF,Oregon,Jackson,Luke
+711,11025,Marc Jackson,1997,2,37,SF/PF,Temple,Jackson,Marc
+712,11026,Mark Jackson,1987,1,18,PG,St. John's,Jackson,Mark
+713,11028,Michael Jackson,1986,2,47,PG,Georgetown,Jackson,Michael
+714,11032,Pierre Jackson,2013,2,42,PG,Baylor,Jackson,Pierre
+715,11035,Reggie Jackson,2011,1,24,PG,Boston College,Jackson,Reggie
+716,11037,Stephen Jackson,1997,2,42,SG,Butler CC,Jackson,Stephen
+717,11040,Tracy Jackson,1981,2,25,G/F,Notre Dame,Jackson,Tracy
+718,11043,Casey Jacobsen,2002,1,22,SG,Stanford,Jacobsen,Casey
+719,11044,Sam Jacobson,1998,1,26,SG,Minnesota,Jacobson,Sam
+720,11045,Dave Jamerson,1990,1,15,SG,Ohio,Jamerson,Dave
+721,11047,Bernard James,2012,2,33,C,Florida St.,James,Bernard
+722,11049,Damion James,2010,1,24,SF,Texas,James,Damion
+723,11052,Jerome James,1998,2,36,C,Florida A&M,James,Jerome
+724,11056,Tim James,1999,1,25,SF,Miami,James,Tim
+725,11057,Antawn Jamison,1998,1,4,F,North Carolina,Jamison,Antawn
+726,11065,Nathan Jawai,2008,2,41,PF,Cairns Taipans,Jawai,Nathan
+727,11068,Chris Jefferies,2002,1,27,SF,Fresno State,Jefferies,Chris
+728,11070,Al Jefferson,2004,1,15,PF/C,Prentiss HS ,Jefferson,Al
+729,11071,Cory Jefferson,2014,2,60,PF,Baylor,Jefferson,Cory
+730,11073,Richard Jefferson,2001,1,13,SF,Arizona,Jefferson,Richard
+731,11074,Jared Jeffries,2002,1,11,PF/C,Indiana,Jeffries,Jared
+732,11075,Charles Jenkins,2011,2,44,PG,Hofstra,Jenkins,Charles
+733,11077,John Jenkins,2012,1,23,SG,Vanderbilt,Jenkins,John
+734,11078,Brandon Jennings,2009,1,10,PG,Lottomatica Roma,Jennings,Brandon
+735,11081,Les Jepsen,1990,2,28,C,Iowa,Jepsen,Les
+736,11082,Jonas Jerebko,2009,2,39,PF,Angelico Biella,Jerebko,Jonas
+737,11083,Grant Jerrett,2013,2,40,PF,Arizona,Jerrett,Grant
+738,11088,Alexander Johnson,2006,2,45,F,Florida State,Johnson,Alexander
+739,11089,Amir Johnson,2005,2,56,F,Westchester HS,Johnson,Amir
+740,11091,Anthony Johnson,1997,2,39,PG/SG,College of Charleston,Johnson,Anthony
+741,11092,Armon Johnson,2010,2,34,PG,Nevada,Johnson,Armon
+742,11095,Brice Johnson,2016,1,25,PF,North Carolina,Johnson,Brice
+743,11096,Buck Johnson,1986,1,20,SF,Alabama,Johnson,Buck
+744,11104,Dakari Johnson,2015,2,48,C,Kentucky,Johnson,Dakari
+745,11106,Dave Johnson,1992,1,26,SF,Syracuse,Johnson,Dave
+746,11107,DeMarco Johnson,1998,2,38,PF,Charlotte,Johnson,DeMarco
+747,11109,DerMarr Johnson,2000,1,6,SG/SF,Cincinnati,Johnson,DerMarr
+748,11111,Eddie Johnson,1981,2,29,G/F,Illinois,Johnson,Eddie
+749,11112,Eddie Johnson,1981,2,29,G/F,Illinois,Johnson,Eddie
+750,11114,Ervin Johnson,1993,1,23,C,New Orleans,Johnson,Ervin
+751,11115,Frank Johnson,1981,1,11,G,Wake Forest,Johnson,Frank
+752,11122,JaJuan Johnson,2011,1,27,PF,Purdue,Johnson,JaJuan
+753,11123,James Johnson,2009,1,16,SF,Wake Forest,Johnson,James
+754,11124,Joe Johnson,2001,1,10,SG,Arkansas,Johnson,Joe
+755,11126,Kannard Johnson,1987,2,41,SF,WKU,Johnson,Kannard
+756,11127,Ken Johnson,1985,2,28,F,Michigan State,Johnson,Ken
+757,11127,Ken Johnson,2001,2,49,C,Ohio State,Johnson,Ken
+758,11128,Ken Johnson,1985,2,28,F,Michigan State,Johnson,Ken
+759,11128,Ken Johnson,2001,2,49,C,Ohio State,Johnson,Ken
+760,11129,Kevin Johnson,1987,1,7,PG,California,Johnson,Kevin
+761,11130,Larry Johnson,1991,1,1,PF,UNLV,Johnson,Larry
+762,11131,Larry Johnson,1991,1,1,PF,UNLV,Johnson,Larry
+763,11138,Nick Johnson,2014,2,42,PG/SG,Arizona,Johnson,Nick
+764,11140,Orlando Johnson,2012,2,36,SG,UC Santa Barbara,Johnson,Orlando
+765,11142,Reggie Johnson,1980,1,15,F/C,Tennessee,Johnson,Reggie
+766,11145,Stanley Johnson,2015,1,8,SF,Arizona,Johnson,Stanley
+767,11147,Steve Johnson,1981,1,7,F/C,Oregon State,Johnson,Steve
+768,11152,Wesley Johnson,2010,1,4,SF,Syracuse,Johnson,Wesley
+769,11153,Darius Johnson-Odom,2012,2,55,SG,Marquette,Johnson-Odom,Darius
+770,11159,Alvin Jones,2001,2,57,C,Georgia Tech,Jones,Alvin
+771,11160,Anthony Jones,1986,1,21,SF,UNLV,Jones,Anthony
+772,11160,Anthony Jones,1991,2,52,SF,Oral Roberts,Jones,Anthony
+773,11163,Bobby Jones,2006,2,37,F,Washington,Jones,Bobby
+774,11164,Bobby Jones,2006,2,37,F,Washington,Jones,Bobby
+775,11166,Charles Jones,1984,2,36,F,Louisville,Jones,Charles
+776,11167,Charles Jones,1984,2,36,F,Louisville,Jones,Charles
+777,11168,Charles Jones,1984,2,36,F,Louisville,Jones,Charles
+778,11170,Dahntay Jones,2003,1,20,SG,Duke,Jones,Dahntay
+779,11171,Damian Jones,2016,1,30,C,Vanderbilt,Jones,Damian
+780,11175,Dominique Jones,2010,1,25,SG,USF,Jones,Dominique
+781,11179,Earl Jones,1984,1,23,C,UDC,Jones,Earl
+782,11180,Eddie Jones,1994,1,10,SG,Temple,Jones,Eddie
+783,11182,Fred Jones,2002,1,14,SG,Oregon,Jones,Fred
+784,11186,James Jones,2003,2,49,SF,Miami (Florida),Jones,James
+785,11189,Jumaine Jones,1999,1,27,SF,Georgia,Jones,Jumaine
+786,11199,Popeye Jones,1992,2,41,F,Murray State,Jones,Popeye
+787,11203,Shelton Jones,1988,2,27,F,St. John's,Jones,Shelton
+788,11204,Solomon Jones,2006,2,33,F,South Florida,Jones,Solomon
+789,11206,Terrence Jones,2012,1,18,PF,Kentucky,Jones,Terrence
+790,11207,Tyus Jones,2015,1,24,PG,Duke,Jones,Tyus
+791,11212,Adonis Jordan,1993,2,42,PG,Kansas,Jordan,Adonis
+792,11214,DeAndre Jordan,2008,2,35,C,Texas A&M,Jordan,DeAndre
+793,11216,Jerome Jordan,2010,2,44,C,Tulsa,Jordan,Jerome
+794,11217,Michael Jordan,1984,1,3,G/F,North Carolina,Jordan,Michael
+795,11225,Cory Joseph,2011,1,29,PG,Texas,Joseph,Cory
+796,11227,Kris Joseph,2012,2,51,SF,Syracuse,Joseph,Kris
+797,11228,Yvon Joseph,1985,2,36,C,Georgia Tech,Joseph,Yvon
+798,11235,Chris Kaman,2003,1,6,C,Central Michigan,Kaman,Chris
+799,11236,Frank Kaminsky,2015,1,9,C,Wisconsin,Kaminsky,Frank
+800,11237,Enes Kanter,2011,1,3,C,Kentucky,Kanter,Enes
+801,11239,Jason Kapono,2003,2,31,F/G,UCLA,Kapono,Jason
+802,11241,Sergey Karasev,2013,1,19,SG/SF,Triumph Lyubertsy,Karasev,Sergey
+803,11245,Mario Kasun,2002,2,41,C,Opel Skyliners,Kasun,Mario
+804,11248,Sasha Kaun,2008,2,56,C,Kansas,Kaun,Sasha
+805,11253,Adam Keefe,1992,1,10,PF,Stanford,Keefe,Adam
+806,11259,Clark Kellogg,1982,1,8,PF,Ohio State,Kellogg,Clark
+807,11262,Ryan Kelly,2013,2,48,PF,Duke,Kelly,Ryan
+808,11266,Shawn Kemp,1989,1,17,PF/C,Trinity Valley CC,Kemp,Shawn
+809,11269,Luke Kennard,2017,1,12,SG,Duke,Kennard,Luke
+810,11278,Steve Kerr,1988,2,50,PG,Arizona,Kerr,Steve
+811,11280,Jerome Kersey,1984,2,46,F,Longwood,Kersey,Jerome
+812,11282,Alec Kessler,1990,1,12,PF,Georgia,Kessler,Alec
+813,11283,Lari Ketner,1999,2,49,C,UMass,Ketner,Lari
+814,11285,Randolph Keys,1988,1,22,SF,Southern Miss,Keys,Randolph
+815,11286,Viktor Khryapa,2004,1,22,SF,CSKA Moscow,Khryapa,Viktor
+816,11287,Jason Kidd,1994,1,2,PG,California,Kidd,Jason
+817,11289,Michael Kidd-Gilchrist,2012,1,2,SF,Kentucky,Kidd-Gilchrist,Michael
+818,11296,Bo Kimble,1990,1,8,SG,Loyola Marymount,Kimble,Bo
+819,11298,Chad Kinch,1980,1,22,G,UNC Charlotte,Kinch,Chad
+820,11299,Albert King,1981,1,10,G/F,Maryland,King,Albert
+821,11301,Chris King,1992,2,45,F,Wake Forest,King,Chris
+822,11303,Frankie King,1995,2,37,G,Western Carolina,King,Frankie
+823,11307,Jimmy King,1995,2,35,G,Michigan,King,Jimmy
+824,11311,Rich King,1991,1,14,C,Nebraska,King,Rich
+825,11313,Stacey King,1989,1,6,C,Oklahoma,King,Stacey
+826,11317,Andrei Kirilenko,1999,1,24,SF,CSKA Moscow,Kirilenko,Andrei
+827,11324,Greg Kite,1983,1,21,C,BYU,Kite,Greg
+828,11325,Kerry Kittles,1996,1,8,G,Villanova,Kittles,Kerry
+829,11327,Joe Kleine,1985,1,6,C,Arkansas,Kleine,Joe
+830,11328,Linas Kleiza,2005,1,27,F,Missouri,Kleiza,Linas
+831,11336,Brandon Knight,2011,1,8,PG,Kentucky,Knight,Brandon
+832,11337,Brevin Knight,1997,1,16,PG,Stanford,Knight,Brevin
+833,11338,Negele Knight,1990,2,31,G,Dayton,Knight,Negele
+834,11341,Travis Knight,1996,1,29,C,Connecticut,Knight,Travis
+835,11349,Jon Koncak,1985,1,5,C,SMU,Koncak,Jon
+836,11353,Furkan Korkmaz,2016,1,26,SG/SF,Anadolu Efes,Korkmaz,Furkan
+837,11354,Frank Kornet,1989,2,30,F,Vanderbilt,Kornet,Frank
+838,11355,Yaroslav Korolev,2005,1,12,F,CSKA Moscow,Korolev,Yaroslav
+839,11356,Kyle Korver,2003,2,51,SG,Creighton,Korver,Kyle
+840,11361,Kosta Koufos,2008,1,23,C,Ohio State,Koufos,Kosta
+841,11376,Larry Krystkowiak,1986,2,28,PF,Montana,Krystkowiak,Larry
+842,11390,Kyle Kuzma,2017,1,27,PF,Utah,Kuzma,Kyle
+843,11400,Christian Laettner,1992,1,3,PF,Duke,Laettner,Christian
+844,11402,Raef LaFrentz,1998,1,3,C/F,Kansas,LaFrentz,Raef
+845,11407,Doron Lamb,2012,2,42,SG,Kentucky,Lamb,Doron
+846,11408,Jeremy Lamb,2012,1,12,SG,Connecticut,Lamb,Jeremy
+847,11410,Jeff Lamp,1981,1,15,G/F,Virginia,Lamp,Jeff
+848,11411,Maciej Lampe,2003,2,30,PF,Complutense University of Madrid,Lampe,Maciej
+849,11413,Sean Lampley,2001,2,45,SF,California,Lampley,Sean
+850,11414,Carl Landry,2007,2,31,PF,Purdue,Landry,Carl
+851,11417,Jerome Lane,1988,1,23,PF,Pittsburgh,Lane,Jerome
+852,11418,Andrew Lang,1988,2,28,C,Arkansas,Lang,Andrew
+853,11419,Antonio Lang,1994,2,29,F/G,Duke,Lang,Antonio
+854,11420,James Lang,2003,2,48,C,Central Park Christian HS ,Lang,James
+855,11421,Trajan Langdon,1999,1,11,SG,Duke,Langdon,Trajan
+856,11423,Dan Langhi,2000,2,31,PF,Vanderbilt,Langhi,Dan
+857,11428,Shane Larkin,2013,1,18,PG,Miami (FL),Larkin,Shane
+858,11432,Stephane Lasme,2007,2,46,PF,Massachusetts,Lasme,Stephane
+859,11434,Priest Lauderdale,1996,1,28,C,Peristeri,Lauderdale,Priest
+860,11438,Joffrey Lauvergne,2013,2,55,C,Partizan Belgrade,Lauvergne,Joffrey
+861,11440,Zach LaVine,2014,1,13,SG,UCLA,LaVine,Zach
+862,11442,Acie Law,2007,1,11,PG,Texas A&M,Law,Acie
+863,11443,Gani Lawal,2010,2,46,PF,Georgia Tech,Lawal,Gani
+864,11445,Jason Lawson,1997,2,41,C,Villanova,Lawson,Jason
+865,11446,Ty Lawson,2009,1,18,PG,North Carolina,Lawson,Ty
+866,11447,Jake Layman,2016,2,47,SF,Maryland,Layman,Jake
+867,11454,Eric Leckner,1988,1,17,C,Wyoming,Leckner,Eric
+868,11455,Ricky Ledo,2013,2,43,SG,Providence,Ledo,Ricky
+869,11458,Courtney Lee,2008,1,22,SG,Western Kentucky,Lee,Courtney
+870,11459,David Lee,2005,1,30,PF,Florida,Lee,David
+871,11460,David Lee,2005,1,30,PF,Florida,Lee,David
+872,11462,Doug Lee,1987,2,35,SG,Purdue,Lee,Doug
+873,11465,Keith Lee,1985,1,11,C,Memphis State,Lee,Keith
+874,11467,Malcolm Lee,2011,2,43,SG,UCLA,Lee,Malcolm
+875,11475,Alex Len,2013,1,5,C,Maryland,Len,Alex
+876,11476,Voshon Lenard,1994,2,46,SG,Minnesota,Lenard,Voshon
+877,11478,Gary Leonard,1989,2,34,C,Missouri,Leonard,Gary
+878,11479,Kawhi Leonard,2011,1,15,SF,San Diego State,Leonard,Kawhi
+879,11480,Meyers Leonard,2012,1,11,C,Illinois,Leonard,Meyers
+880,11483,Travis Leslie,2011,2,47,SG,Georgia,Leslie,Travis
+881,11484,Ronnie Lester,1980,1,10,G,Iowa,Lester,Ronnie
+882,11486,Jon Leuer,2011,2,40,PF,Wisconsin,Leuer,Jon
+883,11488,Fat Lever,1982,1,11,PG,Arizona State,Lever,Fat
+884,11489,Caris LeVert,2016,1,20,SG,Michigan,LeVert,Caris
+885,11490,Cliff Levingston,1982,1,9,PF,Wichita State,Levingston,Cliff
+886,11496,Martin Lewis,1995,2,50,F,Seward County,Lewis,Martin
+887,11498,Quincy Lewis,1999,1,19,SF,Minnesota,Lewis,Quincy
+888,11500,Rashard Lewis,1998,2,32,PF,Alief Elsik HS,Lewis,Rashard
+889,11501,Reggie Lewis,1987,1,22,SG,Northeastern,Lewis,Reggie
+890,11502,Marcus Liberty,1990,2,42,F,Illinois,Liberty,Marcus
+891,11503,Todd Lichti,1989,1,15,SG,Stanford,Lichti,Todd
+892,11505,DeAndre Liggins,2011,2,53,SG,Kentucky,Liggins,DeAndre
+893,11508,Damian Lillard,2012,1,6,PG,Weber St.,Lillard,Damian
+894,11510,Steve Lingenfelter,1981,2,44,F,South Dakota State,Lingenfelter,Steve
+895,11511,Alton Lister,1981,1,21,F/C,Arizona State,Lister,Alton
+896,11514,Randy Livingston,1996,2,42,G,LSU,Livingston,Randy
+897,11515,Shaun Livingston,2004,1,4,PG,Peoria HS,Livingston,Shaun
+898,11526,Darrell Lockhart,1983,2,35,C,Auburn,Lockhart,Darrell
+899,11528,Kevin Loder,1981,1,17,G/F,Alabama State,Loder,Kevin
+900,11532,Brad Lohaus,1987,2,45,PF/C,Iowa,Lohaus,Brad
+901,11534,Grant Long,1988,2,33,F,Eastern Michigan,Long,Grant
+902,11539,Luc Longley,1991,1,7,C,New Mexico,Longley,Luc
+903,11540,Kevon Looney,2015,1,30,PF,UCLA,Looney,Kevon
+904,11541,Brook Lopez,2008,1,10,C,Stanford,Lopez,Brook
+905,11544,Robin Lopez,2008,1,15,C,Stanford,Lopez,Robin
+906,11550,Kevin Love,2008,1,5,PF,UCLA,Love,Kevin
+907,11553,Sidney Lowe,1983,2,25,PG,NC State,Lowe,Sidney
+908,11555,Kyle Lowry,2006,1,24,PG,Villanova,Lowry,Kyle
+909,11563,Tyronn Lue,1998,1,23,PG,Nebraska,Lue,Tyronn
+910,11569,Tyler Lydon,2017,1,24,PF,Syracuse,Lydon,Tyler
+911,11570,Trey Lyles,2015,1,12,PF,Kentucky,Lyles,Trey
+912,11572,George Lynch,1993,1,12,SF,North Carolina,Lynch,George
+913,11573,Kevin Lynch,1991,2,28,G/F,Minnesota,Lynch,Kevin
+914,11585,Shelvin Mack,2011,2,34,PG,Butler,Mack,Shelvin
+915,11586,Malcolm Mackey,1993,1,27,PF,Georgia Tech,Mackey,Malcolm
+916,11588,Vernon Macklin,2011,2,52,PF,Florida,Macklin,Vernon
+917,11590,Don MacLean,1992,1,19,PF,UCLA,MacLean,Don
+918,11591,Mark Macon,1991,1,8,SG,Temple,Macon,Mark
+919,11594,Tito Maddox,2002,2,38,PG,Fresno State,Maddox,Tito
+920,11596,Mark Madsen,2000,1,29,PF,Stanford,Madsen,Mark
+921,11599,Corey Maggette,1999,1,13,SF/SG,Duke,Maggette,Corey
+922,11600,Dave Magley,1982,2,28,PF,Kansas,Magley,Dave
+923,11601,Jamaal Magloire,2000,1,19,PF/C,Kentucky,Magloire,Jamaal
+924,11603,Ian Mahinmi,2005,1,28,F/C,Le Havre,Mahinmi,Ian
+925,11607,Rick Mahorn,1980,2,35,F/C,Hampton,Mahorn,Rick
+926,11608,Dan Majerle,1988,1,14,SF,Central Michigan,Majerle,Dan
+927,11610,Thon Maker,2016,1,10,PF,Orangeville Prep,Maker,Thon
+928,11612,Jeff Malone,1983,1,10,SG,Mississippi State,Malone,Jeff
+929,11613,Karl Malone,1985,1,13,PF,Louisiana Tech,Malone,Karl
+930,11621,Danny Manning,1988,1,1,PF,Kansas,Manning,Danny
+931,11624,Rich Manning,1993,2,40,C,Washington,Manning,Rich
+932,11625,Pace Mannion,1983,2,43,SF,Utah,Mannion,Pace
+933,11629,Devyn Marble,2014,2,56,SG/SF,Iowa,Marble,Devyn
+934,11630,Roy Marble,1989,1,23,SG/SF,Iowa,Marble,Roy
+935,11631,Stephon Marbury,1996,1,4,G,Georgia Tech,Marbury,Stephon
+936,11635,Shawn Marion,1999,1,9,SF/PF,UNLV,Marion,Shawn
+937,11637,Lauri Markkanen,2017,1,7,PF,Arizona,Markkanen,Lauri
+938,11638,Damir Markota,2006,2,59,F,Cibona Zagreb,Markota,Damir
+939,11639,Sean Marks,1998,2,44,PF,California,Marks,Sean
+940,11643,Donny Marshall,1995,2,39,F,Connecticut,Marshall,Donny
+941,11644,Donyell Marshall,1994,1,4,SF,Connecticut,Marshall,Donyell
+942,11645,Kendall Marshall,2012,1,13,PG,North Carolina,Marshall,Kendall
+943,11649,Bill Martin,1985,2,26,F,Georgetown,Martin,Bill
+944,11653,Cuonzo Martin,1995,2,57,G/F,Purdue,Martin,Cuonzo
+945,11658,Jarell Martin,2015,1,25,PF,LSU,Martin,Jarell
+946,11659,Jeff Martin,1989,2,31,G,Murray State,Martin,Jeff
+947,11660,Kenyon Martin,2000,1,1,PF,Cincinnato (Sr.),Martin,Kenyon
+948,11661,Kevin Martin,2004,1,26,SG,Western Carolina,Martin,Kevin
+949,11663,Maurice Martin,1986,1,16,SF,Saint Joseph's,Martin,Maurice
+950,11667,Jamal Mashburn,1993,1,4,SF,Kentucky,Mashburn,Jamal
+951,11670,Desmond Mason,2000,1,17,SF/SG,Oklahoma State,Mason,Desmond
+952,11673,Tony Massenburg,1990,2,43,F,Maryland,Massenburg,Tony
+953,11677,Wes Matthews,1980,1,14,G,Wisconsin,Matthews,Wes
+954,11680,Marlon Maxey,1992,2,28,PF,UTEP,Maxey,Marlon
+955,11681,Jason Maxiell,2005,1,26,F,Cincinnati,Maxiell,Jason
+956,11683,Vernon Maxwell,1988,2,47,SG,Florida,Maxwell,Vernon
+957,11686,Sean May,2005,1,13,F,North Carolina,May,Sean
+958,11687,Lee Mayberry,1992,1,23,PG,Arkansas,Mayberry,Lee
+959,11692,Eric Maynor,2009,1,20,PG,VCU,Maynor,Eric
+960,11694,Travis Mays,1990,1,14,PG,Texas,Mays,Travis
+961,11696,Luc Mbah a Moute,2008,2,37,SF,UCLA,Mbah a Moute,Luc
+962,11701,Bob McCann,1987,2,32,SF,Morehead State,McCann,Bob
+963,11704,Rashad McCants,2005,1,14,G,North Carolina,McCants,Rashad
+964,11711,Walter McCarty,1996,1,19,F,Kentucky,McCarty,Walter
+965,11712,Amal McCaskill,1996,2,49,C,Marquette,McCaskill,Amal
+966,11713,Patrick McCaw,2016,2,38,SG/SF,UNLV,McCaw,Patrick
+967,11714,Dwayne McClain,1985,2,27,SG,Villanova,McClain,Dwayne
+968,11716,Dan McClintock,2000,2,53,C,Northern Arizona,McClintock,Dan
+969,11718,George McCloud,1989,1,7,SG/SF,Florida State,McCloud,George
+970,11724,Tim McCormick,1984,1,12,C,Michigan,McCormick,Tim
+971,11725,Jelani McCoy,1998,2,33,F/C,UCLA,McCoy,Jelani
+972,11728,Rodney McCray,1983,1,3,SF,Louisville,McCray,Rodney
+973,11729,Scooter McCray,1983,2,36,PF,Louisville,McCray,Scooter
+974,11730,Chris McCullough,2015,1,29,PF,Syracuse,McCullough,Chris
+975,11733,Xavier McDaniel,1985,1,4,PF,Wichita State,McDaniel,Xavier
+976,11736,Doug McDermott,2014,1,11,SF,Creighton,McDermott,Doug
+977,11739,Michael McDonald,1995,2,55,C,New Orleans,McDonald,Michael
+978,11742,Antonio McDyess,1995,1,2,PF,Alabama,McDyess,Antonio
+979,11747,Mitch McGary,2014,1,21,PF,Michigan,McGary,Mitch
+980,11749,Mike McGee,1981,1,19,G/F,Michigan,McGee,Mike
+981,11753,Tracy McGrady,1997,1,9,SG/SF,Mt. Zion Christian Academy,McGrady,Tracy
+982,11760,Dominic McGuire,2007,2,47,SF,Fresno State,McGuire,Dominic
+983,11761,Kevin McHale,1980,1,3,F/C,Minnesota,McHale,Kevin
+984,11763,Jim McIlvaine,1994,2,32,C,Marquette,McIlvaine,Jim
+985,11764,Jeff McInnis,1996,2,37,G,North Carolina,McInnis,Jeff
+986,11771,Derrick McKey,1987,1,9,SF/PF,Alabama,McKey,Derrick
+987,11772,Aaron McKie,1994,1,17,SG,Temple,McKie,Aaron
+988,11777,Ben McLemore,2013,1,7,SG,Kansas,McLemore,Ben
+989,11781,Roshown McLeod,1998,1,20,SF,Duke,McLeod,Roshown
+990,11783,Nate McMillan,1986,2,30,PG,NC State,McMillan,Nate
+991,11789,Mark McNamara,1982,1,22,C,California,McNamara,Mark
+992,11792,Chris McNealy,1983,2,38,PF,San Jose State,McNealy,Chris
+993,11799,Jordan McRae,2014,2,58,SG,Tennessee,McRae,Jordan
+994,11801,Josh McRoberts,2007,2,37,PF,Duke,McRoberts,Josh
+995,11805,Darnell Mee,1993,2,34,SG,Western Kentucky,Mee,Darnell
+996,11806,Jodie Meeks,2009,2,41,SG,Kentucky,Meeks,Jodie
+997,11816,Fab Melo,2012,1,22,C,Syracuse,Melo,Fab
+998,11824,Ron Mercer,1997,1,6,SF,Kentucky,Mercer,Ron
+999,11829,Loren Meyer,1995,1,24,PF,Iowa State,Meyer,Loren
+1000,11832,Larry Micheaux,1983,2,29,PF,Houston,Micheaux,Larry
+1001,11833,Jordan Mickey,2015,2,33,PF,LSU,Mickey,Jordan
+1002,11834,Khris Middleton,2012,2,39,SF,Texas A&M,Middleton,Khris
+1003,11836,Chris Mihm,2000,1,7,C/PF,Texas,Mihm,Chris
+1004,11844,Darius Miles,2000,1,3,SF/PF,East St. Louis HS (Illinois),Miles,Darius
+1005,11849,Andre Miller,1999,1,8,PG,Utah,Miller,Andre
+1006,11850,Anthony Miller,1994,2,39,F,Michigan State,Miller,Anthony
+1007,11854,Darius Miller,2012,2,46,SF,Kentucky,Miller,Darius
+1008,11855,Dick Miller,1980,2,40,F,Toledo,Miller,Dick
+1009,11861,Mike Miller,2000,1,5,SF/SG,Florida,Miller,Mike
+1010,11862,Oliver Miller,1992,1,22,C,Arkansas,Miller,Oliver
+1011,11863,Quincy Miller,2012,2,38,SF,Baylor,Miller,Quincy
+1012,11864,Reggie Miller,1987,1,11,SG,UCLA,Miller,Reggie
+1013,11866,Chris Mills,1993,1,22,SF,Arizona,Mills,Chris
+1014,11868,Patty Mills,2009,2,55,PG,Saint Mary's,Mills,Patty
+1015,11869,Terry Mills,1990,1,16,SF,Michigan,Mills,Terry
+1016,11871,Paul Millsap,2006,2,47,PF,Louisiana Tech,Millsap,Paul
+1017,11872,Harold Miner,1992,1,12,SG,USC,Miner,Harold
+1018,11873,Yao Ming,2002,1,1,C,Shanghai Sharks,Ming,Yao
+1019,11874,Dirk Minniefield,1983,2,33,PG,Kentucky,Minniefield,Dirk
+1020,11876,Greg Minor,1994,1,25,SG,Louisville,Minor,Greg
+1021,11881,Donovan Mitchell,2017,1,13,SG,Louisville,Mitchell,Donovan
+1022,11886,Todd Mitchell,1988,2,43,F,Purdue,Mitchell,Todd
+1023,11887,Tony Mitchell,2013,2,37,PF,North Texas,Mitchell,Tony
+1024,11888,Tony Mitchell,2013,2,37,PF,North Texas,Mitchell,Tony
+1025,11891,Cuttino Mobley,1998,2,41,SG,Rhode Island,Mobley,Cuttino
+1026,11892,Eric Mobley,1994,1,18,PF,Pittsburgh,Mobley,Eric
+1027,11896,Nazr Mohammed,1998,1,29,C/F,Kentucky,Mohammed,Nazr
+1028,11903,Sergei Monia,2004,1,23,SG,CSKA Moscow,Monia,Sergei
+1029,11904,Malik Monk,2017,1,11,SG,Kentucky,Monk,Malik
+1030,11906,Greg Monroe,2010,1,7,PF,Georgetown,Monroe,Greg
+1031,11907,Rodney Monroe,1991,2,30,G/F,NC State,Monroe,Rodney
+1032,11910,Eric Montross,1994,1,9,C,North Carolina,Montross,Eric
+1033,11913,Andre Moore,1987,2,31,PF,Loyola (IL),Moore,Andre
+1034,11923,Ron Moore,1987,2,25,C,West Virginia State,Moore,Ron
+1035,11927,Guy Morgan,1982,2,40,G,Wake Forest,Morgan,Guy
+1036,11930,Darren Morningstar,1992,2,47,C,Pittsburgh,Morningstar,Darren
+1037,11931,Chris Morris,1988,1,4,SF,Auburn,Morris,Chris
+1038,11932,Darius Morris,2011,2,41,PG,Michigan,Morris,Darius
+1039,11933,Isaiah Morris,1992,2,37,F,Arkansas,Morris,Isaiah
+1040,11934,Marcus Morris,2011,1,14,PF/SF,Kansas,Morris,Marcus
+1041,11935,Markieff Morris,2011,1,13,PF,Kansas,Morris,Markieff
+1042,11939,Terence Morris,2001,2,34,SF,Maryland,Morris,Terence
+1043,11940,Adam Morrison,2006,1,3,SF,Gonzaga,Morrison,Adam
+1044,11942,Mike Morrison,1989,2,51,G,Loyola ,Morrison,Mike
+1045,11945,Dwayne Morton,1994,2,45,F,Louisville,Morton,Dwayne
+1046,11946,John Morton,1989,1,25,PG,Seton Hall,Morton,John
+1047,11950,Lawrence Moten,1995,2,36,G,Syracuse,Moten,Lawrence
+1048,11954,Arnett Moultrie,2012,1,27,PF,Mississippi St.,Moultrie,Arnett
+1049,11956,Alonzo Mourning,1992,1,2,C,Georgetown,Mourning,Alonzo
+1050,11959,Emmanuel Mudiay,2015,1,7,PG,Guangdong Southern Tigers,Mudiay,Emmanuel
+1051,11961,Shabazz Muhammad,2013,1,14,SG/SF,UCLA,Muhammad,Shabazz
+1052,11964,Byron Mullens,2009,1,24,C,Ohio State,Mullens,Byron
+1053,11965,Chris Mullin,1985,1,7,SF,St. John's,Mullin,Chris
+1054,11971,Eric Murdock,1991,1,21,PG,Providence,Murdock,Eric
+1055,11976,Erik Murphy,2013,2,49,PF,Florida,Murphy,Erik
+1056,11977,Jay Murphy,1984,2,31,F,Boston College,Murphy,Jay
+1057,11979,Kevin Murphy,2012,2,47,SG,Tennessee Tech,Murphy,Kevin
+1058,11980,Ronnie Murphy,1987,1,17,SG,Jacksonville,Murphy,Ronnie
+1059,11982,Troy Murphy,2001,1,14,PF,Notre Dame,Murphy,Troy
+1060,11983,Dejounte Murray,2016,1,29,PG/SG,Washington,Murray,Dejounte
+1061,11984,Jamal Murray,2016,1,7,SG/PG,Kentucky,Murray,Jamal
+1062,11986,Lamond Murray,1994,1,7,SF,California,Murray,Lamond
+1063,11987,Ronald Murray,2002,2,42,SG,Shaw,Murray,Ronald
+1064,11988,Tracy Murray,1992,1,18,SF,UCLA,Murray,Tracy
+1065,11992,Mike Muscala,2013,2,44,C,Bucknell,Muscala,Mike
+1066,11994,Jerrod Mustaf,1990,1,17,F/C,Maryland,Mustaf,Jerrod
+1067,11995,Dikembe Mutombo,1991,1,4,C,Georgetown,Mutombo,Dikembe
+1068,12000,Mamadou N'Diaye,2000,1,26,C,Auburn,N'Diaye,Mamadou
+1069,12005,Abdel Nader,2016,2,58,SF,Iowa State,Nader,Abdel
+1070,12008,Lee Nailon,1999,2,43,SF,TCU,Nailon,Lee
+1071,12010,Larry Nance,1981,1,20,F/C,Clemson,Nance,Larry
+1072,12011,Larry Nance,1981,1,20,F/C,Clemson,Nance,Larry
+1073,12012,Shabazz Napier,2014,1,24,PG,Connecticut,Napier,Shabazz
+1074,12016,Steve Nash,1996,1,15,G,Santa Clara,Nash,Steve
+1075,12020,Kenny Natt,1980,2,30,G,Northeast Louisiana,Natt,Kenny
+1076,12022,Juan Carlos Navarro,2002,2,40,PG,FC Barcelona,Navarro,Juan Carlos
+1077,12034,Jameer Nelson,2004,1,20,PG,Saint Joseph's,Nelson,Jameer
+1078,12042,Raul Neto,2013,2,47,PG,Gipuzkoa Basket,Neto,Raul
+1079,12051,Johnny Newman,1986,2,29,SF,Richmond,Newman,Johnny
+1080,12054,Georges Niang,2016,2,50,PF,Iowa State,Niang,Georges
+1081,12055,Demetris Nichols,2007,2,53,SF,Syracuse,Nichols,Demetris
+1082,12057,Andrew Nicholson,2012,1,19,PF,St. Bonaventure,Nicholson,Andrew
+1083,12058,Gaylon Nickerson,1994,2,34,G,Northwestern Oklahoma State,Nickerson,Gaylon
+1084,12059,Carl Nicks,1980,1,23,G,Indiana State,Nicks,Carl
+1085,12064,Dyron Nix,1989,2,29,F,Tennessee,Nix,Dyron
+1086,12066,Joakim Noah,2007,1,9,C,Florida,Noah,Joakim
+1087,12069,David Noel,2006,2,39,F,North Carolina,Noel,David
+1088,12070,Nerlens Noel,2013,1,6,C,Kentucky,Noel,Nerlens
+1089,12072,Lucas Nogueira,2013,1,16,C,Estudiantes,Nogueira,Lucas
+1090,12075,Jeff Nordgaard,1996,2,53,F,Wisconsin Green Bay,Nordgaard,Jeff
+1091,12079,Ken Norman,1987,1,19,SF,Illinois,Norman,Ken
+1092,12080,Audie Norris,1982,2,37,C,Jackson State,Norris,Audie
+1093,12081,Moochie Norris,1996,2,33,G,West Florida,Norris,Moochie
+1094,12087,Steve Novak,2006,2,32,SF,Marquette,Novak,Steve
+1095,12089,Dirk Nowitzki,1998,1,9,PF,DJK WÃ¼rzburg,Nowitzki,Dirk
+1096,12090,Frank Ntilikina,2017,1,8,PG,SIG Strasbourg,Ntilikina,Frank
+1097,12096,Charles O'Bannon,1997,2,31,PG,UCLA,O'Bannon,Charles
+1098,12097,Ed O'Bannon,1995,1,9,SF,UCLA,O'Bannon,Ed
+1099,12105,Patrick O'Bryant,2006,1,9,C,Bradley,O'Bryant,Patrick
+1100,12112,Mike O'Koren,1980,1,6,G/F,North Carolina,O'Koren,Mike
+1101,12114,Jermaine O'Neal,1996,1,17,F/C,Eau Claire HS ,O'Neal,Jermaine
+1102,12115,Shaquille O'Neal,1992,1,1,C,LSU,O'Neal,Shaquille
+1103,12118,Kyle O'Quinn,2012,2,49,PF,Norfolk St.,O'Quinn,Kyle
+1104,12122,Charles Oakley,1985,1,9,PF,Virginia Union,Oakley,Charles
+1105,12125,Greg Oden,2007,1,1,C,Ohio State,Oden,Greg
+1106,12126,Lamar Odom,1999,1,4,PF/SF,Rhode Island,Odom,Lamar
+1107,12132,Semi Ojeleye,2017,2,37,SF/PF,SMU,Ojeleye,Semi
+1108,12133,Emeka Okafor,2004,1,2,PF/C,Connecticut,Okafor,Emeka
+1109,12134,Jahlil Okafor,2015,1,3,C,Duke,Okafor,Jahlil
+1110,12135,Mehmet Okur,2001,2,38,C,Efes Pilsen,Okur,Mehmet
+1111,12136,Victor Oladipo,2013,1,2,SG/PG,Indiana,Oladipo,Victor
+1112,12139,Jawann Oldham,1980,2,41,C,Seattle,Oldham,Jawann
+1113,12143,Brian Oliver,1990,2,32,G,Georgia Tech,Oliver,Brian
+1114,12145,Jimmy Oliver,1991,2,39,G/F,Purdue,Oliver,Jimmy
+1115,12148,Michael Olowokandi,1998,1,1,C,Pacific,Olowokandi,Michael
+1116,12150,Kelly Olynyk,2013,1,13,C,Gonzaga,Olynyk,Kelly
+1117,12152,Chinanu Onuaku,2016,2,37,PF/C,Louisville,Onuaku,Chinanu
+1118,12155,Louis Orr,1980,2,29,F,Syracuse,Orr,Louis
+1119,12157,Daniel Orton,2010,1,29,C,Kentucky,Orton,Daniel
+1120,12159,Cedi Osman,2015,2,31,SG/SF,Anadolu Efes,Osman,Cedi
+1121,12161,Greg Ostertag,1995,1,28,C,Kansas,Ostertag,Greg
+1122,12167,Travis Outlaw,2003,1,23,SF,Starkville HS,Outlaw,Travis
+1123,12169,Doug Overton,1991,2,40,PG,La Salle,Overton,Doug
+1124,12171,Billy Owens,1991,1,3,SF,Syracuse,Owens,Billy
+1125,12172,Chris Owens,2002,2,48,PF,Texas,Owens,Chris
+1126,12180,Olumide Oyedeji,2000,2,42,PF,WÃ¼rzburg,Oyedeji,Olumide
+1127,12182,Zaza Pachulia,2003,2,42,PF,Ãœlkerspor,Pachulia,Zaza
+1128,12186,Scott Padgett,1999,1,28,PF,Kentucky,Padgett,Scott
+1129,12188,Marcus Paige,2016,2,55,PG,North Carolina,Paige,Marcus
+1130,12195,Walter Palmer,1990,2,33,C/F,Dartmouth,Palmer,Walter
+1131,12197,Georgios Papagiannis,2016,1,13,C,Panathinaikos,Papagiannis,Georgios
+1132,12198,Kostas Papanikolaou,2012,2,48,SF,Olympiacos,Papanikolaou,Kostas
+1133,12204,Anthony Parker,1997,1,21,SG,Bradley,Parker,Anthony
+1134,12205,Jabari Parker,2014,1,2,SF/PF,Duke,Parker,Jabari
+1135,12208,Tony Parker,2001,1,28,PG,Paris Basket Racing,Parker,Tony
+1136,12212,Cherokee Parks,1995,1,12,C,Duke,Parks,Cherokee
+1137,12217,Chandler Parsons,2011,2,38,SF,Florida,Parsons,Chandler
+1138,12223,Andrae Patterson,1998,2,46,SF,Indiana,Patterson,Andrae
+1139,12225,Lamar Patterson,2014,2,48,SG/SF,Pittsburgh,Patterson,Lamar
+1140,12226,Patrick Patterson,2010,1,14,PF,Kentucky,Patterson,Patrick
+1141,12227,Ruben Patterson,1998,2,31,SF,Cincinnati,Patterson,Ruben
+1142,12232,Chris Paul,2005,1,4,PG,Wake Forest,Paul,Chris
+1143,12239,John Paxson,1983,1,19,PG,Notre Dame,Paxson,John
+1144,12241,Adreian Payne,2014,1,15,PF,Michigan State,Payne,Adreian
+1145,12242,Cameron Payne,2015,1,14,PG,Murray State,Payne,Cameron
+1146,12243,Kenny Payne,1989,1,19,PF,Louisville,Payne,Kenny
+1147,12245,Elfrid Payton,2014,1,10,PG,Louisiana Lafayette,Payton,Elfrid
+1148,12246,Gary Payton,1990,1,2,PG,Oregon State,Payton,Gary
+1149,12247,Gary Payton,1990,1,2,PG,Oregon State,Payton,Gary
+1150,12251,Oleksiy Pecherov,2006,1,18,C,BC Kyiv,Pecherov,Oleksiy
+1151,12254,Anthony Peeler,1992,1,15,SG,Missouri,Peeler,Anthony
+1152,12263,Mike Peplowski,1993,2,52,C,Michigan State,Peplowski,Mike
+1153,12264,Will Perdue,1988,1,11,C,Vanderbilt,Perdue,Will
+1154,12265,Kendrick Perkins,2003,1,27,C,Ozen HS ,Perkins,Kendrick
+1155,12266,Sam Perkins,1984,1,4,F/C,North Carolina,Perkins,Sam
+1156,12272,Elliot Perry,1991,2,37,PG,Memphis State,Perry,Elliot
+1157,12274,Tim Perry,1988,1,7,F,Temple,Perry,Tim
+1158,12275,Chuck Person,1986,1,4,SF,Auburn,Person,Chuck
+1159,12276,Wesley Person,1994,1,23,SG,Auburn,Person,Wesley
+1160,12277,Alec Peters,2017,2,54,SF,Valparaiso,Peters,Alec
+1161,12283,Morris Peterson,2000,1,21,SF/SG,Michigan State,Peterson,Morris
+1162,12285,Johan Petro,2005,1,25,C,Pau-Orthez,Petro,Johan
+1163,12296,Eddie Phillips,1982,1,21,SF,Alabama,Phillips,Eddie
+1164,12299,Bobby Phills,1991,2,45,SG,Southern,Phills,Bobby
+1165,12300,Eric Piatkowski,1994,1,15,SG,Nebraska,Piatkowski,Eric
+1166,12302,Paul Pierce,1998,1,10,G/F,Kansas,Pierce,Paul
+1167,12303,Ricky Pierce,1982,1,18,SF,Rice,Pierce,Ricky
+1168,12307,Ed Pinckney,1985,1,10,PF,Villanova,Pinckney,Ed
+1169,12312,Scottie Pippen,1987,1,5,SF,Central Arkansas,Pippen,Scottie
+1170,12314,Dexter Pittman,2010,2,32,C,Texas,Pittman,Dexter
+1171,12318,Mason Plumlee,2013,1,22,C,Duke,Plumlee,Mason
+1172,12319,Miles Plumlee,2012,1,26,C,Duke,Plumlee,Miles
+1173,12320,Gary Plummer,1984,2,45,F/C,Boston University,Plummer,Gary
+1174,12321,Pavel Podkolzin,2004,1,21,C,Metis Varese,Podkolzin,Pavel
+1175,12325,Scot Pollard,1997,1,19,C,Kansas,Pollard,Scot
+1176,12327,Olden Polynice,1987,1,8,C,Virginia,Polynice,Olden
+1177,12329,Quincy Pondexter,2010,1,26,SF,Washington,Pondexter,Quincy
+1178,12331,Mark Pope,1996,2,52,F,Kentucky,Pope,Mark
+1179,12334,Chris Porter,2000,2,55,F,Auburn,Porter,Chris
+1180,12337,Otto Porter,2013,1,3,SF,Georgetown,Porter,Otto
+1181,12338,Terry Porter,1985,1,24,PG,Wisconsin Stevens Point,Porter,Terry
+1182,12340,Bobby Portis,2015,1,22,PF,Arkansas,Portis,Bobby
+1183,12343,James Posey,1999,1,18,SG/SF,Xavier,Posey,James
+1184,12344,Lavor Postell,2000,2,39,SG,St. John's,Postell,Lavor
+1185,12346,Vitaly Potapenko,1996,1,12,C,Wright State,Potapenko,Vitaly
+1186,12347,Leon Powe,2006,2,49,F,California,Powe,Leon
+1187,12349,Dwight Powell,2014,2,45,PF,Stanford,Powell,Dwight
+1188,12352,Norman Powell,2015,2,46,SG,UCLA,Powell,Norman
+1189,12357,Paul Pressey,1982,1,20,SF,Tulsa,Pressey,Paul
+1190,12360,Harold Pressley,1986,1,17,SF,Villanova,Pressley,Harold
+1191,12363,Brent Price,1992,2,32,G,Oklahoma,Price,Brent
+1192,12365,Mark Price,1986,2,25,PG,Georgia Tech,Price,Mark
+1193,12371,Tayshaun Prince,2002,1,23,SF,Kentucky,Prince,Tayshaun
+1194,12373,Kevin Pritchard,1990,2,34,G,Kansas,Pritchard,Kevin
+1195,12374,Laron Profit,1999,2,38,SG/SF,Maryland,Profit,Laron
+1196,12375,Gabe Pruitt,2007,2,32,PG,USC,Pruitt,Gabe
+1197,12376,Joel Przybilla,2000,1,9,C,Minnesota,Przybilla,Joel
+1198,12382,Zhou Qi,2016,2,43,C,Xinjiang Flying Tigers,Qi,Zhou
+1199,12386,Brian Quinnett,1989,2,50,F,Washington State,Quinnett,Brian
+1200,12387,Ivan Rabb,2017,2,35,PF,California,Rabb,Ivan
+1201,12401,Ed Rains,1981,2,30,F,South Alabama,Rains,Ed
+1202,12404,Peter John Ramos,2004,2,32,C,Caguas,Ramos,Peter John
+1203,12408,Mark Randall,1991,1,26,PF,Kansas,Randall,Mark
+1204,12410,Julius Randle,2014,1,7,PF,Kentucky,Randle,Julius
+1205,12411,Anthony Randolph,2008,1,14,PF,LSU,Randolph,Anthony
+1206,12413,Zach Randolph,2001,1,19,PF,Michigan State,Randolph,Zach
+1207,12415,Kelvin Ransey,1980,1,4,G,Ohio State,Ransey,Kelvin
+1208,12418,Blair Rasmussen,1985,1,15,C,Oregon,Rasmussen,Blair
+1209,12422,Theo Ratliff,1995,1,18,PF/C,Wyoming,Ratliff,Theo
+1210,12423,Andy Rautins,2010,2,38,SG,Syracuse,Rautins,Andy
+1211,12424,Leo Rautins,1983,1,17,SF,Syracuse,Rautins,Leo
+1212,12428,James Ray,1980,1,5,F,Jacksonville,Ray,James
+1213,12436,Michael Redd,2000,2,43,SG,Ohio State,Redd,Michael
+1214,12441,Justin Reed,2004,2,40,SF,Mississippi,Reed,Justin
+1215,12445,Bryant Reeves,1995,1,6,C,Oklahoma State,Reeves,Bryant
+1216,12446,Khalid Reeves,1994,1,12,PG,Arizona,Reeves,Khalid
+1217,12450,Don Reid,1995,2,58,F,Georgetown,Reid,Don
+1218,12454,Ryan Reid,2010,2,57,PF,Florida State,Reid,Ryan
+1219,12458,Terrence Rencher,1995,2,32,G,Texas,Rencher,Terrence
+1220,12462,Shawn Respert,1995,1,8,SG,Michigan State,Respert,Shawn
+1221,12465,Jerry Reynolds,1985,1,22,G/F,LSU,Reynolds,Jerry
+1222,12468,Rodrick Rhodes,1997,1,24,SG,USC,Rhodes,Rodrick
+1223,12469,Glen Rice,1989,1,4,SF,Michigan,Rice,Glen
+1224,12470,Glen Rice,1989,1,4,SF,Michigan,Rice,Glen
+1225,12471,Chris Richard,2007,2,41,PF,Florida,Richard,Chris
+1226,12473,Jason Richardson,2001,1,5,SG,Michigan State,Richardson,Jason
+1227,12475,Josh Richardson,2015,2,40,SG,Tennessee,Richardson,Josh
+1228,12476,Malachi Richardson,2016,1,22,SG,Syracuse,Richardson,Malachi
+1229,12479,Pooh Richardson,1989,1,10,PG,UCLA,Richardson,Pooh
+1230,12480,Quentin Richardson,2000,1,18,SF/SG,DePaul,Richardson,Quentin
+1231,12481,Mitch Richmond,1988,1,5,SG,Kansas State,Richmond,Mitch
+1232,12484,Isaiah Rider,1993,1,5,SG,UNLV,Rider,Isaiah
+1233,12486,Luke Ridnour,2003,1,14,PG,Oregon,Ridnour,Luke
+1234,12493,Eric Riley,1993,2,33,C,Michigan,Riley,Eric
+1235,12495,Ron Riley,1996,2,47,G/F,Arizona State,Riley,Ron
+1236,12501,Austin Rivers,2012,1,10,SG,Duke,Rivers,Austin
+1237,12502,David Rivers,1988,1,25,PG,Notre Dame,Rivers,David
+1238,12503,Doc Rivers,1983,2,31,PG,Marquette,Rivers,Doc
+1239,12513,Fred Roberts,1982,2,27,PF,BYU,Roberts,Fred
+1240,12515,Lawrence Roberts,2005,2,55,F,Mississippi State,Roberts,Lawrence
+1241,12517,Stanley Roberts,1991,1,23,C,Real Madrid,Roberts,Stanley
+1242,12518,Alvin Robertson,1984,1,7,G,Arkansas,Robertson,Alvin
+1243,12520,Ryan Robertson,1999,2,45,G,Kansas,Robertson,Ryan
+1244,12523,Bernard Robinson,2004,2,45,SF,Michigan,Robinson,Bernard
+1245,12524,Chris Robinson,1996,2,51,G,Western Kentucky,Robinson,Chris
+1246,12525,Cliff Robinson,1989,2,36,PF/C,Connecticut,Robinson,Cliff
+1247,12527,David Robinson,1987,1,1,C,Navy,Robinson,David
+1248,12530,Glenn Robinson,1994,1,1,SF,Purdue,Robinson,Glenn
+1249,12531,Glenn Robinson,1994,1,1,SF,Purdue,Robinson,Glenn
+1250,12534,James Robinson,1993,1,21,SG,Alabama,Robinson,James
+1251,12536,Nate Robinson,2005,1,21,G,Washington,Robinson,Nate
+1252,12537,Oliver Robinson,1982,2,24,SG,UAB,Robinson,Oliver
+1253,12539,Rumeal Robinson,1990,1,10,PG,Michigan,Robinson,Rumeal
+1254,12541,Thomas Robinson,2012,1,5,PF,Kansas,Robinson,Thomas
+1255,12543,Wayne Robinson,1980,2,31,F,Virginia Tech,Robinson,Wayne
+1256,12552,Dennis Rodman,1986,2,27,PF,Southeastern Oklahoma State,Rodman,Dennis
+1257,12554,Lou Roe,1995,2,30,F,UMass,Roe,Lou
+1258,12555,Carlos Rogers,1994,1,11,SF,Tennessee State,Rogers,Carlos
+1259,12557,Johnny Rogers,1986,2,34,PF,UC Irvine,Rogers,Johnny
+1260,12559,Rodney Rogers,1993,1,9,PF,Wake Forest,Rogers,Rodney
+1261,12560,Roy Rogers,1996,1,22,F,Alabama,Rogers,Roy
+1262,12568,Rajon Rondo,2006,1,21,PG,Kentucky,Rondo,Rajon
+1263,12570,Sean Rooks,1992,2,30,PF/C,Arizona,Rooks,Sean
+1264,12571,Derrick Rose,2008,1,1,PG,Memphis,Rose,Derrick
+1265,12572,Jalen Rose,1994,1,13,G/F,Michigan,Rose,Jalen
+1266,12573,Malik Rose,1996,2,44,F,Drexel,Rose,Malik
+1267,12580,Terrence Ross,2012,1,8,SG,Washington,Ross,Terrence
+1268,12581,Doug Roth,1989,2,41,C,Tennessee,Roth,Doug
+1269,12591,Brian Rowsom,1987,2,34,PF,UNC Wilmington,Rowsom,Brian
+1270,12592,Brandon Roy,2006,1,6,SG,Washington,Roy,Brandon
+1271,12596,Clifford Rozier,1994,1,16,PF,Louisville,Rozier,Clifford
+1272,12597,Terry Rozier,2015,1,16,PG,Louisville,Rozier,Terry
+1273,12598,Ricky Rubio,2009,1,5,PG,DKV Joventut,Rubio,Ricky
+1274,12604,Michael Ruffin,1999,2,32,PF,Tulsa,Ruffin,Michael
+1275,12608,Jeff Ruland,1980,2,25,F/C,Iona,Ruland,Jeff
+1276,12611,Stefano Rusconi,1990,2,52,PF/C,Ranger Varese,Rusconi,Stefano
+1277,12612,Brandon Rush,2008,1,13,SG,Kansas,Rush,Brandon
+1278,12613,Kareem Rush,2002,1,20,SG,Missouri,Rush,Kareem
+1279,12615,Bryon Russell,1993,2,45,SF,Long Beach State,Russell,Bryon
+1280,12618,D'Angelo Russell,2015,1,2,PG,Ohio State,Russell,D'Angelo
+1281,12624,Arvydas Sabonis,1986,1,24,C,Zalgiris,Sabonis,Arvydas
+1282,12625,Domantas Sabonis,2016,1,11,PF/C,Gonzaga,Sabonis,Domantas
+1283,12626,Robert Sacre,2012,2,60,C,Gonzaga,Sacre,Robert
+1284,12629,John Salley,1986,1,11,PF,Georgia Tech,Salley,John
+1285,12630,John Salmons,2002,1,26,SF/SG,Miami,Salmons,John
+1286,12633,Soumaila Samake,2000,2,36,C,Cincinnati Stuff,Samake,Soumaila
+1287,12634,Cheikh Samb,2006,2,51,C,WTC CornellÃ ,Samb,Cheikh
+1288,12636,Jamal Sampson,2002,2,47,C,California,Sampson,Jamal
+1289,12637,Ralph Sampson,1983,1,1,C,Virginia,Sampson,Ralph
+1290,12642,Jeff Sanders,1989,1,20,PF/C,Georgia Southern,Sanders,Jeff
+1291,12643,Larry Sanders,2010,1,15,C,VCU,Sanders,Larry
+1292,12650,Wayne Sappleton,1982,2,38,F,Loyola (IL),Sappleton,Wayne
+1293,12651,Dario Saric,2014,1,12,SF/PF,Cibona Zagreb,Saric,Dario
+1294,12652,Jason Sasser,1996,2,41,F,Texas Tech,Sasser,Jason
+1295,12653,Jeryl Sasser,2001,1,22,SG,SMU,Sasser,Jeryl
+1296,12655,Kenny Satterfield,2001,2,54,PG,Cincinnati,Satterfield,Kenny
+1297,12663,Brian Scalabrine,2001,2,35,PF,USC,Scalabrine,Brian
+1298,12665,DeWayne Scales,1980,2,36,F,LSU,Scales,DeWayne
+1299,12674,Danny Schayes,1981,1,13,F/C,Syracuse,Schayes,Danny
+1300,12677,Steve Scheffler,1990,2,39,C/F,Purdue,Scheffler,Steve
+1301,12682,Dwayne Schintzius,1990,1,24,C,Florida,Schintzius,Dwayne
+1302,12686,Russ Schoene,1982,2,45,F/C,Chattanooga,Schoene,Russ
+1303,12689,Detlef Schrempf,1985,1,8,SF/PF,Washington,Schrempf,Detlef
+1304,12695,Luis Scola,2002,2,56,PF,TAU CerÃ¡mica,Scola,Luis
+1305,12699,Byron Scott,1983,1,4,SG,Arizona State,Scott,Byron
+1306,12701,Dennis Scott,1990,1,4,SG/SF,Georgia Tech,Scott,Dennis
+1307,12703,Mike Scott,2012,2,43,PF,Virginia,Scott,Mike
+1308,12705,Shawnelle Scott,1994,2,43,C,St. John's,Scott,Shawnelle
+1309,12708,Carey Scurry,1985,2,37,F,LIU Brooklyn,Scurry,Carey
+1310,12711,Malik Sealy,1992,1,14,SF,St. John's,Sealy,Malik
+1311,12715,Thabo Sefolosha,2006,1,13,SG,Angelico Biella,Sefolosha,Thabo
+1312,12716,Rony Seikaly,1988,1,9,C,Syracuse,Seikaly,Rony
+1313,12718,Josh Selby,2011,2,49,PG,Kansas,Selby,Josh
+1314,12720,Brad Sellers,1986,1,9,C,Ohio State,Sellers,Brad
+1315,12726,Mouhamed Sene,2006,1,10,C,Verviers-Pepinster,Sene,Mouhamed
+1316,12729,Ansu Sesay,1998,2,30,SF,Mississippi,Sesay,Ansu
+1317,12730,Ramon Sessions,2007,2,56,PG,Nevada,Sessions,Ramon
+1318,12731,Ha Seung-Jin,2004,2,46,C,Yonsei University,Seung-Jin,Ha
+1319,12732,Tom Sewell,1984,1,22,G,Lamar,Sewell,Tom
+1320,12736,Charles Shackleford,1988,2,32,F/C,NC State,Shackleford,Charles
+1321,12740,God Shammgod,1997,2,45,PG,Providence,Shammgod,God
+1322,12745,Walter Sharpe,2008,2,32,PF,UAB,Sharpe,Walter
+1323,12748,Brian Shaw,1988,1,24,SG,UC Santa Barbara,Shaw,Brian
+1324,12749,Casey Shaw,1998,2,37,C,Toledo,Shaw,Casey
+1325,12752,Craig Shelton,1980,2,28,F,Georgetown,Shelton,Craig
+1326,12754,Tornike Shengelia,2012,2,54,SF,Spirou Charleroi,Shengelia,Tornike
+1327,12767,Iman Shumpert,2011,1,17,SG,Georgia Tech,Shumpert,Iman
+1328,12769,Pascal Siakam,2016,1,27,PF,New Mexico State,Siakam,Pascal
+1329,12782,Wayne Simien,2005,1,29,F,Kansas,Simien,Wayne
+1330,12783,Ben Simmons,2016,1,1,PF/PG,LSU,Simmons,Ben
+1331,12784,Bobby Simmons,2001,2,42,F/G,DePaul,Simmons,Bobby
+1332,12785,Cedric Simmons,2006,1,15,SF,NC State,Simmons,Cedric
+1333,12791,Lionel Simmons,1990,1,7,SF,La Salle,Simmons,Lionel
+1334,12792,Miles Simon,1998,2,42,SG,Arizona,Simon,Miles
+1335,12794,Dickey Simpkins,1994,1,21,PF,Providence,Simpkins,Dickey
+1336,12802,Kyle Singler,2011,2,33,SF,Duke,Singler,Kyle
+1337,12803,Sean Singletary,2008,2,42,PG,Virginia,Singletary,Sean
+1338,12804,Chris Singleton,2011,1,18,SF,Florida State,Singleton,Chris
+1339,12808,Charlie Sitton,1984,2,38,F,Oregon State,Sitton,Charlie
+1340,12809,Peyton Siva,2013,2,56,PG,Louisville,Siva,Peyton
+1341,12810,Scott Skiles,1986,1,22,PG,Michigan State,Skiles,Scott
+1342,12812,Brian Skinner,1998,1,22,F/C,Baylor,Skinner,Brian
+1343,12818,Jose Slaughter,1982,2,43,SG,Portland,Slaughter,Jose
+1344,12819,Tamar Slay,2002,2,54,SG,Marshall,Slay,Tamar
+1345,12823,Tom Sluby,1984,2,41,G,Notre Dame,Sluby,Tom
+1346,12824,Keith Smart,1988,2,41,G,Indiana,Smart,Keith
+1347,12825,Marcus Smart,2014,1,6,PG,Oklahoma State,Smart,Marcus
+1348,12833,Charles Smith,1988,1,3,PF,Pittsburgh,Smith,Charles
+1349,12833,Charles Smith,1997,1,26,SG,New Mexico,Smith,Charles
+1350,12834,Charles Smith,1988,1,3,PF,Pittsburgh,Smith,Charles
+1351,12834,Charles Smith,1997,1,26,SG,New Mexico,Smith,Charles
+1352,12835,Charles Smith,1988,1,3,PF,Pittsburgh,Smith,Charles
+1353,12835,Charles Smith,1997,1,26,SG,New Mexico,Smith,Charles
+1354,12836,Chris Smith,1992,2,34,G,Connecticut,Smith,Chris
+1355,12837,Chris Smith,1992,2,34,G,Connecticut,Smith,Chris
+1356,12839,Craig Smith,2006,2,36,F,Boston College,Smith,Craig
+1357,12842,Derek Smith,1982,2,35,SG,Louisville,Smith,Derek
+1358,12845,Donta Smith,2004,2,34,SF,Southeastern Illinois,Smith,Donta
+1359,12846,Doug Smith,1991,1,6,PF,Missouri,Smith,Doug
+1360,12854,Jabari Smith,2000,2,45,C,LSU,Smith,Jabari
+1361,12855,Jason Smith,2007,1,20,PF,Colorado State,Smith,Jason
+1362,12858,Joe Smith,1995,1,1,PF,Maryland,Smith,Joe
+1363,12860,Josh Smith,2004,1,17,SF,Oak Hill Academy,Smith,Josh
+1364,12861,Keith Smith,1986,2,45,PG,Loyola Marymount,Smith,Keith
+1365,12863,Kenny Smith,1987,1,6,PG,North Carolina,Smith,Kenny
+1366,12864,LaBradford Smith,1991,1,19,SG,Louisville,Smith,LaBradford
+1367,12865,Larry Smith,1980,2,24,F/C,Alcorn State,Smith,Larry
+1368,12866,Leon Smith,1999,1,29,PF,King College Prep HS,Smith,Leon
+1369,12867,Michael Smith,1994,2,35,F,Providence,Smith,Michael
+1370,12867,Michael Smith,1989,1,13,PF,BYU,Smith,Michael
+1371,12868,Michael Smith,1994,2,35,F,Providence,Smith,Michael
+1372,12868,Michael Smith,1989,1,13,PF,BYU,Smith,Michael
+1373,12869,Mike Smith,2000,2,35,F,Louisiana-Monroe,Smith,Mike
+1374,12870,Nolan Smith,2011,1,21,PG,Duke,Smith,Nolan
+1375,12871,Otis Smith,1986,2,41,SG,Jacksonville,Smith,Otis
+1376,12875,Reggie Smith,1992,2,31,C,TCU,Smith,Reggie
+1377,12877,Russ Smith,2014,2,47,PG/SG,Louisville,Smith,Russ
+1378,12880,Steve Smith,1991,1,5,SG,Michigan State,Smith,Steve
+1379,12884,Tony Smith,1990,2,51,G,Marquette,Smith,Tony
+1380,12887,Rik Smits,1988,1,2,C,Marist,Smits,Rik
+1381,12888,Mike Smrek,1985,2,25,C,Canisius,Smrek,Mike
+1382,12890,Tony Snell,2013,1,20,SF,New Mexico,Snell,Tony
+1383,12891,Eric Snow,1995,2,43,PG,Michigan State,Snow,Eric
+1384,12893,Kirk Snyder,2004,1,16,SG,Nevada,Snyder,Kirk
+1385,12899,Will Solomon,2001,2,33,PG,Clemson,Solomon,Will
+1386,12901,Darius Songaila,2002,2,50,PF,Wake Forest,Songaila,Darius
+1387,12905,Pape Sow,2004,2,47,PF,Cal State Fullerton,Sow,Pape
+1388,12908,Vassilis Spanoulis,2004,2,50,PG,Maroussi,Spanoulis,Vassilis
+1389,12914,Marreese Speights,2008,1,16,PF,Florida,Speights,Marreese
+1390,12916,Elmore Spencer,1992,1,25,C,UNLV,Spencer,Elmore
+1391,12917,Felton Spencer,1990,1,6,C,Louisville,Spencer,Felton
+1392,12920,Tiago Splitter,2007,1,28,C,TAU CerÃ¡mica,Splitter,Tiago
+1393,12923,Latrell Sprewell,1992,1,24,SG,Alabama,Sprewell,Latrell
+1394,12927,Ryan Stack,1998,2,48,C,South Carolina,Stack,Ryan
+1395,12928,Jerry Stackhouse,1995,1,3,SG,North Carolina,Stackhouse,Jerry
+1396,12934,Terence Stansbury,1984,1,15,G,Temple,Stansbury,Terence
+1397,12937,Nik Stauskas,2014,1,8,SG,Michigan,Stauskas,Nik
+1398,12940,Matt Steigenga,1992,2,52,F,Michigan State,Steigenga,Matt
+1399,12941,Vladimir Stepania,1998,1,27,C,Olimpija Ljubljana,Stepania,Vladimir
+1400,12943,Everette Stephens,1988,2,31,G,Purdue,Stephens,Everette
+1401,12946,Lance Stephenson,2010,2,40,SG,Cincinnati,Stephenson,Lance
+1402,12948,Brook Steppe,1982,1,17,SG,Georgia Tech,Steppe,Brook
+1403,12949,Barry Stevens,1985,2,43,G/F,Iowa State,Stevens,Barry
+1404,12951,DeShawn Stevenson,2000,1,23,SG,Washington Union HS,Stevenson,DeShawn
+1405,12953,Kebu Stewart,1997,2,35,SF/PF,Cal State Bakersfield,Stewart,Kebu
+1406,12958,Steve Stipanovich,1983,1,2,C,Missouri,Stipanovich,Steve
+1407,12959,Bryant Stith,1992,1,13,SG,Virginia,Stith,Bryant
+1408,12964,John Stockton,1984,1,16,G,Gonzaga,Stockton,John
+1409,12966,Ed Stokes,1993,2,35,C,Arizona,Stokes,Ed
+1410,12967,Greg Stokes,1985,2,33,F/C,Iowa,Stokes,Greg
+1411,12968,Jarnell Stokes,2014,2,35,PF,Tennessee,Stokes,Jarnell
+1412,12972,Diamond Stone,2016,2,40,C,Maryland,Stone,Diamond
+1413,12976,Damon Stoudamire,1995,1,7,PG,Arizona,Stoudamire,Damon
+1414,12977,Salim Stoudamire,2005,2,31,G,Arizona,Stoudamire,Salim
+1415,12978,Amar'e Stoudemire,2002,1,9,PF/C,Cypress Creek HS,Stoudemire,Amar'e
+1416,12980,D.J. Strawberry,2007,2,59,PG,Maryland,Strawberry,D.J.
+1417,12985,Rod Strickland,1988,1,19,PG,DePaul,Strickland,Rod
+1418,12988,Derek Strong,1990,2,47,F,Xavier,Strong,Derek
+1419,12989,Lamont Strothers,1991,2,43,G,Christopher Newport,Strothers,Lamont
+1420,12990,John Stroud,1980,2,27,F,Mississippi,Stroud,John
+1421,12992,Rodney Stuckey,2007,1,15,SG,Eastern Washington,Stuckey,Rodney
+1422,12996,Jared Sullinger,2012,1,21,PF,Ohio St.,Sullinger,Jared
+1423,12997,DaJuan Summers,2009,2,35,PF,Georgetown,Summers,DaJuan
+1424,13001,Jon Sundvold,1983,1,16,PG,Missouri,Sundvold,Jon
+1425,13002,Bob Sura,1995,1,17,SG,Florida State,Sura,Bob
+1426,13006,Greg Sutton,1991,2,49,G,Oral Roberts,Sutton,Greg
+1427,13009,Caleb Swanigan,2017,1,26,PF,Purdue,Swanigan,Caleb
+1428,13013,Robert Swift,2004,1,12,C,Bakersfield HS,Swift,Robert
+1429,13015,Stromile Swift,2000,1,2,PF/C,LSU,Swift,Stromile
+1430,13017,Pape Sy,2010,2,53,SF,STB Le Havre,Sy,Pape
+1431,13021,Wally Szczerbiak,1999,1,6,SG/SF,Miami (OH),Szczerbiak,Wally
+1432,13025,Chris Taft,2005,2,42,F,Pittsburgh,Taft,Chris
+1433,13028,Roy Tarpley,1986,1,7,C,Michigan,Tarpley,Roy
+1434,13031,Jayson Tatum,2017,1,3,SF,Duke,Tatum,Jayson
+1435,13033,Anthony Taylor,1988,2,44,G,Oregon,Taylor,Anthony
+1436,13040,Jeff Taylor,1982,2,42,SG,Texas Tech,Taylor,Jeff
+1437,13041,Jeffery Taylor,2012,2,31,SF,Vanderbilt,Taylor,Jeffery
+1438,13042,Jermaine Taylor,2009,2,32,SG,Central Florida,Taylor,Jermaine
+1439,13043,Johnny Taylor,1997,1,17,PF,Chattanooga,Taylor,Johnny
+1440,13045,Maurice Taylor,1997,1,14,PF,Michigan,Taylor,Maurice
+1441,13046,Mike Taylor,2008,2,55,PG,Idaho Stampede,Taylor,Mike
+1442,13049,Tyshawn Taylor,2012,2,41,PG,Kansas,Taylor,Tyshawn
+1443,13050,Vince Taylor,1982,2,34,SF,Duke,Taylor,Vince
+1444,13051,Terry Teagle,1982,1,16,SG,Baylor,Teagle,Terry
+1445,13052,Jeff Teague,2009,1,19,PG,Wake Forest,Teague,Jeff
+1446,13053,Marquis Teague,2012,1,29,PG,Kentucky,Teague,Marquis
+1447,13055,Sebastian Telfair,2004,1,13,PG,Lincoln HS,Telfair,Sebastian
+1448,13063,Jason Terry,1999,1,10,SG/PG,Arizona,Terry,Jason
+1449,13064,Hasheem Thabeet,2009,1,2,C,Connecticut,Thabeet,Hasheem
+1450,13072,David Thirdkill,1982,1,15,SF,Bradley,Thirdkill,David
+1451,13077,Etan Thomas,2000,1,12,PF/C,Syracuse,Thomas,Etan
+1452,13079,Isaiah Thomas,2011,2,60,PG,Washington,Thomas,Isaiah
+1453,13080,Isiah Thomas,1981,1,2,G,Indiana,Thomas,Isiah
+1454,13083,Jim Thomas,1983,2,40,SG,Indiana,Thomas,Jim
+1455,13085,John Thomas,1997,1,25,C,Minnesota,Thomas,John
+1456,13086,Kenny Thomas,1999,1,22,PF,New Mexico,Thomas,Kenny
+1457,13087,Kurt Thomas,1995,1,10,PF/C,TCU,Thomas,Kurt
+1458,13092,Tim Thomas,1997,1,7,SF,Villanova,Thomas,Tim
+1459,13093,Tyrus Thomas,2006,1,4,PF,LSU,Thomas,Tyrus
+1460,13095,Trey Thompkins,2011,2,37,PF,Georgia,Thompkins,Trey
+1461,13096,Bernard Thompson,1984,1,19,G/F,Fresno State,Thompson,Bernard
+1462,13097,Billy Thompson,1986,1,19,SF,Louisville,Thompson,Billy
+1463,13098,Brooks Thompson,1994,1,27,PG,Oklahoma State,Thompson,Brooks
+1464,13101,Dijon Thompson,2005,2,54,G/F,UCLA,Thompson,Dijon
+1465,13105,Jason Thompson,2008,1,12,PF,Rider,Thompson,Jason
+1466,13107,Kevin Thompson,1993,2,48,C,NC State,Thompson,Kevin
+1467,13108,Klay Thompson,2011,1,11,SG,Washington State,Thompson,Klay
+1468,13109,LaSalle Thompson,1982,1,5,C/PF,Texas,Thompson,LaSalle
+1469,13114,Tristan Thompson,2011,1,4,C/PF,Texas,Thompson,Tristan
+1470,13117,Al Thornton,2007,1,14,SF,Florida State,Thornton,Al
+1471,13120,Marcus Thornton,2009,2,43,SG,LSU,Thornton,Marcus
+1472,13120,Marcus Thornton,2015,2,45,PG,William & Mary,Thornton,Marcus
+1473,13121,Sindarius Thornwell,2017,2,48,SG,South Carolina,Thornwell,Sindarius
+1474,13122,Otis Thorpe,1984,1,9,F/C,Providence,Thorpe,Otis
+1475,13128,Darren Tillis,1982,1,23,C,Cleveland State,Tillis,Darren
+1476,13131,Jamaal Tinsley,2001,1,27,PG,Iowa State,Tinsley,Jamaal
+1477,13132,Wayman Tisdale,1985,1,2,PF,Oklahoma,Tisdale,Wayman
+1478,13135,Ray Tolbert,1981,1,18,F,Indiana,Tolbert,Ray
+1479,13136,Tom Tolbert,1988,2,34,F/C,Arizona,Tolbert,Tom
+1480,13140,Andrew Toney,1980,1,8,G,Southwestern Louisiana,Toney,Andrew
+1481,13155,Linton Townes,1982,2,33,SF,James Madison,Townes,Linton
+1482,13156,Karl-Anthony Towns,2015,1,1,C,Kentucky,Towns,Karl-Anthony
+1483,13160,Robert Traylor,1998,1,6,F/C,Michigan,Traylor,Robert
+1484,13161,Gary Trent,1995,1,11,PF,Ohio,Trent,Gary
+1485,13162,Jeff Trepagnier,2001,2,36,SG,USC,Trepagnier,Jeff
+1486,13165,Kelly Tripucka,1981,1,12,G/F,Notre Dame,Tripucka,Kelly
+1487,13171,Nikoloz Tskitishvili,2002,1,5,PF/C,Benetton Treviso,Tskitishvili,Nikoloz
+1488,13173,Alando Tucker,2007,1,29,SF,Wisconsin,Tucker,Alando
+1489,13176,P.J. Tucker,2006,2,35,F,Texas,Tucker,P.J.
+1490,13177,Trent Tucker,1982,1,6,SG,Minnesota,Tucker,Trent
+1491,13178,Ronny Turiaf,2005,2,37,F,Gonzaga,Turiaf,Ronny
+1492,13183,Elston Turner,1981,2,43,G/F,Mississippi,Turner,Elston
+1493,13184,Evan Turner,2010,1,2,SF/SG,Ohio State,Turner,Evan
+1494,13190,Jeff Turner,1984,1,17,F/C,Vanderbilt,Turner,Jeff
+1495,13191,John Turner,1991,1,20,PF,Phillips,Turner,John
+1496,13192,Myles Turner,2015,1,11,C,Texas,Turner,Myles
+1497,13194,Melvin Turpin,1984,1,6,C,Kentucky,Turpin,Melvin
+1498,13197,B.J. Tyler,1994,1,20,PG,Texas,Tyler,B.J.
+1499,13198,Jeremy Tyler,2011,2,39,PF,Tokyo Apache,Tyler,Jeremy
+1500,13202,Ekpe Udoh,2010,1,6,C,Baylor,Udoh,Ekpe
+1501,13204,Beno Udrih,2004,1,28,PG,Breil Milano,Udrih,Beno
+1502,13206,Tyler Ulis,2016,2,34,PG,Kentucky,Ulis,Tyler
+1503,13214,Darnell Valentine,1981,1,16,G,Kansas,Valentine,Darnell
+1504,13215,Denzel Valentine,2016,1,14,SG/SF,Michigan State,Valentine,Denzel
+1505,13222,Nick Van Exel,1993,2,37,PG,Cincinnati,Van Exel,Nick
+1506,13223,Keith Van Horn,1997,1,2,PF,Utah,Van Horn,Keith
+1507,13229,Kiki Vandeweghe,1980,1,11,F,UCLA,Vandeweghe,Kiki
+1508,13230,Nick Vanos,1985,2,32,C,Santa Clara,Vanos,Nick
+1509,13235,Jarvis Varnado,2010,2,41,PF,Mississippi State,Varnado,Jarvis
+1510,13238,David Vaughn,1995,1,25,PF/C,Memphis,Vaughn,David
+1511,13239,David Vaughn,1995,1,25,PF/C,Memphis,Vaughn,David
+1512,13240,Jacque Vaughn,1997,1,27,PG,Kansas,Vaughn,Jacque
+1513,13241,Rashad Vaughn,2015,1,17,SG,UNLV,Vaughn,Rashad
+1514,13243,Loy Vaught,1990,1,13,PF,Michigan,Vaught,Loy
+1515,13249,Charlie Villanueva,2005,1,7,F,Connecticut,Villanueva,Charlie
+1516,13250,Jay Vincent,1981,2,24,F,Michigan State,Vincent,Jay
+1517,13251,Sam Vincent,1985,1,20,SG,Michigan State,Vincent,Sam
+1518,13252,Marcus Vinicius,2006,2,43,F,Objetivo SÃ£o Carlos,Vinicius,Marcus
+1519,13259,Noah Vonleh,2014,1,9,PF,Indiana,Vonleh,Noah
+1520,13260,Jake Voskuhl,2000,2,33,C,Connecticut,Voskuhl,Jake
+1521,13261,Danny Vranes,1981,1,5,F,Utah,Vranes,Danny
+1522,13265,Jackson Vroman,2004,2,31,C,Iowa State,Vroman,Jackson
+1523,13268,Dwyane Wade,2003,1,5,SG,Marquette,Wade,Dwyane
+1524,13270,Von Wafer,2005,2,39,G,Florida State,Wafer,Von
+1525,13272,Dajuan Wagner,2002,1,6,PG,Memphis,Wagner,Dajuan
+1526,13274,Milt Wagner,1986,2,35,SG,Louisville,Wagner,Milt
+1527,13276,Dion Waiters,2012,1,4,SG,Syracuse,Waiters,Dion
+1528,13277,Granville Waiters,1983,2,39,C,Ohio State,Waiters,Granville
+1529,13281,Antoine Walker,1996,1,6,F,Kentucky,Walker,Antoine
+1530,13284,Darrell Walker,1983,1,12,SG,Arkansas,Walker,Darrell
+1531,13289,Kemba Walker,2011,1,9,PG,Connecticut,Walker,Kemba
+1532,13290,Kenny Walker,1986,1,5,SF,Kentucky,Walker,Kenny
+1533,13292,Samaki Walker,1996,1,9,F,Louisville,Walker,Samaki
+1534,13294,John Wall,2010,1,1,PG,Kentucky,Wall,John
+1535,13296,Gerald Wallace,2001,1,25,SF,Alabama,Wallace,Gerald
+1536,13297,John Wallace,1996,1,18,F,Syracuse,Wallace,John
+1537,13298,Rasheed Wallace,1995,1,4,PF,North Carolina,Wallace,Rasheed
+1538,13305,Rex Walters,1993,1,16,SG,Kansas,Walters,Rex
+1539,13311,Luke Walton,2003,2,32,SF,Arizona,Walton,Luke
+1540,13314,Charlie Ward,1994,1,26,PG,Florida State,Ward,Charlie
+1541,13325,Willie Warren,2010,2,54,PG,Oklahoma,Warren,Willie
+1542,13326,Bryan Warrick,1982,2,25,SG,Saint Joseph's,Warrick,Bryan
+1543,13327,Hakim Warrick,2005,1,19,F,Syracuse,Warrick,Hakim
+1544,13328,Chris Washburn,1986,1,3,C,NC State,Washburn,Chris
+1545,13332,Duane Washington,1987,2,36,SG,Middle Tennessee,Washington,Duane
+1546,13333,Eric Washington,1997,2,46,SG,Alabama,Washington,Eric
+1547,13344,Earl Watson,2001,2,40,PG,UCLA,Watson,Earl
+1548,13345,Jamie Watson,1994,2,47,F,South Carolina,Watson,Jamie
+1549,13352,Clarence Weatherspoon,1992,1,9,PF,Southern Miss,Weatherspoon,Clarence
+1550,13354,Kyle Weaver,2008,2,38,SG,Washington State,Weaver,Kyle
+1551,13358,Chris Webber,1993,1,1,PF/C,Michigan,Webber,Chris
+1552,13362,Jeff Webster,1994,2,40,F,Oklahoma,Webster,Jeff
+1553,13363,Martell Webster,2005,1,6,G/F,Seattle Prep. School,Webster,Martell
+1554,13366,Sonny Weems,2008,2,39,SG,Arkansas,Weems,Sonny
+1555,13371,Bonzi Wells,1998,1,11,G/F,Ball State,Wells,Bonzi
+1556,13372,Bubba Wells,1997,2,34,SF/PF,Austin Peay,Wells,Bubba
+1557,13377,Bill Wennington,1985,1,16,C,St. John's,Wennington,Bill
+1558,13379,Robert Werdann,1992,2,46,C,St. John's,Werdann,Robert
+1559,13383,David West,2003,1,18,PF,Xavier,West,David
+1560,13384,Delonte West,2004,1,24,PG,Saint Joseph's,West,Delonte
+1561,13385,Doug West,1989,2,38,G/F,Villanova,West,Doug
+1562,13388,Mark West,1983,2,30,C,Old Dominion,West,Mark
+1563,13391,Russell Westbrook,2008,1,4,PG,UCLA,Westbrook,Russell
+1564,13394,Robert Whaley,2005,2,51,C,Walsh,Whaley,Robert
+1565,13395,Ennis Whatley,1983,1,13,PG,Alabama,Whatley,Ennis
+1566,13396,DeJuan Wheat,1997,2,51,PG,Louisville,Wheat,DeJuan
+1567,13398,Tyson Wheeler,1998,2,47,PG,Rhode Island,Wheeler,Tyson
+1568,13401,Derrick White,2017,1,29,PG/SG,Colorado,White,Derrick
+1569,13405,Jahidi White,1998,2,43,F/C,Georgetown,White,Jahidi
+1570,13406,James White,2006,2,31,G,Cincinnati,White,James
+1571,13409,Randy White,1989,1,8,PF,Louisiana Tech,White,Randy
+1572,13410,Rodney White,2001,1,9,SF/PF,Charlotte,White,Rodney
+1573,13412,Royce White,2012,1,16,PF,Iowa St.,White,Royce
+1574,13414,Tony White,1987,2,33,PG,Tennessee,White,Tony
+1575,13415,Willie White,1984,2,42,G,Chattanooga,White,Willie
+1576,13416,Isaiah Whitehead,2016,2,42,PG/SG,Seton Hall,Whitehead,Isaiah
+1577,13419,Hassan Whiteside,2010,2,33,C,Marshall,Whiteside,Hassan
+1578,13420,Dwayne Whitfield,1995,2,40,F,Jackson State,Whitfield,Dwayne
+1579,13421,Chris Whitney,1993,2,47,PG,Clemson,Whitney,Chris
+1580,13429,Andrew Wiggins,2014,1,1,SF/SG,Kansas,Wiggins,Andrew
+1581,13430,Mitchell Wiggins,1983,1,23,SG,Florida State,Wiggins,Mitchell
+1582,13433,Chris Wilcox,2002,1,8,PF/C,Maryland,Wilcox,Chris
+1583,13437,Michael Wiley,1980,2,39,F,Long Beach State,Wiley,Michael
+1584,13438,Morlon Wiley,1988,2,46,G,Long Beach State,Wiley,Morlon
+1585,13445,Dominique Wilkins,1982,1,3,SF,Georgia,Wilkins,Dominique
+1586,13447,Gerald Wilkins,1985,2,47,SG,Chattanooga,Wilkins,Gerald
+1587,13454,Alvin Williams,1997,2,47,PG,Villanova,Williams,Alvin
+1588,13459,Buck Williams,1981,1,3,F/C,Maryland,Williams,Buck
+1589,13465,Corey Williams,1992,2,33,G,Oklahoma State,Williams,Corey
+1590,13466,Deron Williams,2005,1,3,PG,Illinois,Williams,Deron
+1591,13467,Derrick Williams,2011,1,2,SF/PF,Arizona,Williams,Derrick
+1592,13470,Elliot Williams,2010,1,22,SG,Memphis,Williams,Elliot
+1593,13471,Eric Williams,1995,1,14,SF,Providence,Williams,Eric
+1594,13473,Frank Williams,2002,1,25,PG,Illinois,Williams,Frank
+1595,13477,Guy Williams,1983,2,34,F,Washington State,Williams,Guy
+1596,13479,Herb Williams,1981,1,14,F/C,Ohio State,Williams,Herb
+1597,13481,Jason Williams,1998,1,7,PG,Florida,Williams,Jason
+1598,13483,Jay Williams,2002,1,2,PG,Duke,Williams,Jay
+1599,13484,Jayson Williams,1990,1,21,PF/C,St. John's,Williams,Jayson
+1600,13485,Jerome Williams,1996,1,26,F,Georgetown,Williams,Jerome
+1601,13486,John Williams,1986,1,12,PF,LSU,Williams,John
+1602,13487,Jordan Williams,2011,2,36,PF,Maryland,Williams,Jordan
+1603,13489,Kenny Williams,1990,2,46,F,Elizabeth City State,Williams,Kenny
+1604,13490,Kevin Williams,1983,2,46,PG,St. John's,Williams,Kevin
+1605,13493,Marcus Williams,2006,1,22,G,Connecticut,Williams,Marcus
+1606,13493,Marcus Williams,2007,2,33,SF,Arizona,Williams,Marcus
+1607,13494,Marcus Williams,2006,1,22,G,Connecticut,Williams,Marcus
+1608,13494,Marcus Williams,2007,2,33,SF,Arizona,Williams,Marcus
+1609,13495,Marvin Williams,2005,1,2,F,North Carolina,Williams,Marvin
+1610,13497,Micheal Williams,1988,2,48,G,Baylor,Williams,Micheal
+1611,13500,Mo Williams,2003,2,47,PG,Alabama,Williams,Mo
+1612,13501,Monty Williams,1994,1,24,SF,Notre Dame,Williams,Monty
+1613,13505,Reggie Williams,1987,1,4,SF,Georgetown,Williams,Reggie
+1614,13506,Reggie Williams,1987,1,4,SF,Georgetown,Williams,Reggie
+1615,13508,Rob Williams,1982,1,19,PG,Houston,Williams,Rob
+1616,13510,Sam Williams,1981,2,33,F,Arizona State,Williams,Sam
+1617,13511,Sam Williams,1981,2,33,F,Arizona State,Williams,Sam
+1618,13513,Sean Williams,2007,1,17,PF,Boston College,Williams,Sean
+1619,13514,Shammond Williams,1998,2,34,PG,North Carolina,Williams,Shammond
+1620,13515,Shawne Williams,2006,1,17,PF,Memphis,Williams,Shawne
+1621,13516,Shelden Williams,2006,1,5,PF,Duke,Williams,Shelden
+1622,13518,Terrence Williams,2009,1,11,SG,Louisville,Williams,Terrence
+1623,13521,Walt Williams,1992,1,7,SF,Maryland,Williams,Walt
+1624,13524,Corliss Williamson,1995,1,13,PF,Arkansas,Williamson,Corliss
+1625,13527,Kevin Willis,1984,1,11,F/C,Michigan State,Willis,Kevin
+1626,13541,Nikita Wilson,1987,2,30,SF,LSU,Wilson,Nikita
+1627,13542,Othell Wilson,1984,2,35,G,Virginia,Wilson,Othell
+1628,13546,Trevor Wilson,1990,2,36,F,UCLA,Wilson,Trevor
+1629,13552,David Wingate,1986,2,44,SG,Georgetown,Wingate,David
+1630,13553,Dontonio Wingfield,1994,2,37,F,Cincinnati,Wingfield,Dontonio
+1631,13556,Justise Winslow,2015,1,10,SF,Duke,Winslow,Justise
+1632,13557,Rickie Winslow,1987,2,28,SF,Houston,Winslow,Rickie
+1633,13560,Voise Winters,1985,2,44,SG,Bradley,Winters,Voise
+1634,13563,Jeff Withey,2013,2,39,C,Kansas,Withey,Jeff
+1635,13566,Randy Wittman,1983,1,22,SG,Indiana,Wittman,Randy
+1636,13569,Joe Wolf,1987,1,13,C,North Carolina,Wolf,Joe
+1637,13571,Nate Wolters,2013,2,38,PG,South Dakota State,Wolters,Nate
+1638,13572,Al Wood,1981,1,4,G/F,North Carolina,Wood,Al
+1639,13576,Howard Wood,1981,2,27,F,Tennessee,Wood,Howard
+1640,13577,Leon Wood,1984,1,10,G,Cal State Fullerton,Wood,Leon
+1641,13578,Loren Woods,2001,2,46,C,Arizona,Woods,Loren
+1642,13579,Qyntel Woods,2002,1,21,SF,Northeast Mississippi CC,Woods,Qyntel
+1643,13580,Randy Woods,1992,1,16,PG,La Salle,Woods,Randy
+1644,13582,Mike Woodson,1980,1,12,G/F,Indiana,Woodson,Mike
+1645,13584,Orlando Woolridge,1981,1,6,F,Notre Dame,Woolridge,Orlando
+1646,13585,Haywoode Workman,1989,2,49,G,Oral Roberts,Workman,Haywoode
+1647,13590,Sam Worthen,1980,2,26,F,Marquette,Worthen,Sam
+1648,13591,James Worthy,1982,1,1,SF,North Carolina,Worthy,James
+1649,13592,Antoine Wright,2005,1,15,G/F,Texas A&M,Wright,Antoine
+1650,13593,Bracey Wright,2005,2,47,G,Indiana,Wright,Bracey
+1651,13595,Brandan Wright,2007,1,8,PF,North Carolina,Wright,Brandan
+1652,13598,Delon Wright,2015,1,20,PG,Utah,Wright,Delon
+1653,13599,Dorell Wright,2004,1,19,SF,South Kent School,Wright,Dorell
+1654,13603,Julian Wright,2007,1,13,SF,Kansas,Wright,Julian
+1655,13607,Lorenzen Wright,1996,1,7,C,Memphis,Wright,Lorenzen
+1656,13608,Luther Wright,1993,1,18,C,Seton Hall,Wright,Luther
+1657,13609,Sharone Wright,1994,1,6,PF/C,Clemson,Wright,Sharone
+1658,13610,Tony Wroten,2012,1,25,PG,Washington,Wroten,Tony
+1659,13613,Guerschon Yabusele,2016,1,16,PF,Rouen MÃ©tropole,Yabusele,Guerschon
+1660,13614,Vincent Yarbrough,2002,2,33,SF,Tennessee,Yarbrough,Vincent
+1661,13620,Danny Young,1984,2,39,G,Wake Forest,Young,Danny
+1662,13621,James Young,2014,1,17,SG/SF,Kentucky,Young,James
+1663,13623,Korleone Young,1998,2,40,SF,Hargrave Military Academy,Young,Korleone
+1664,13624,Michael Young,1984,1,24,G/F,Houston,Young,Michael
+1665,13625,Nick Young,2007,1,16,SG,USC,Young,Nick
+1666,13627,Sam Young,2009,2,36,SF,Pittsburgh,Young,Sam
+1667,13628,Thaddeus Young,2007,1,12,PF,Georgia Tech,Young,Thaddeus
+1668,13629,Tim Young,1999,2,56,C,Stanford,Young,Tim
+1669,13633,Cody Zeller,2013,1,4,C/PF,Indiana,Zeller,Cody
+1670,13638,Tyler Zeller,2012,1,17,C,North Carolina,Zeller,Tyler
+1671,13641,Wang Zhizhi,1999,2,36,C,Bayi Rockets,Zhizhi,Wang
+1672,13642,George Zidek,1995,1,22,C,UCLA,Zidek,George
+1673,13643,Derrick Zimmerman,2003,2,40,PG,Mississippi State,Zimmerman,Derrick
+1674,13644,Stephen Zimmerman,2016,2,41,PF/C,UNLV,Zimmerman,Stephen
+1675,13645,Paul Zipser,2016,2,48,SG/SF,FC Bayern Munich,Zipser,Paul
+1676,13649,Ivica Zubac,2016,2,32,C,Mega Leks,Zubac,Ivica
