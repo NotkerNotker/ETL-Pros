@@ -68,7 +68,7 @@ Cleaning and transforming the data in my case was quite a bit trickier. Comments
 ![](images/SeasonData.png)
 
 We used postgresql to store our data. This was mostly because formatting a player ID key and sorting by players in a relational database was much more practical than having dictionary data for each player given the large number of stats available. We used quickdatabasediagrams.com to create the general format and addressed datatype issues as we moved along. Mostly involving column name adjustments. SQL files in my (Luke's) branch mostly used for test purposes. Nirmal handled the rest of the sql uploads. Finally added Visualizations to show usability of data.
-![](images/Curry3PA.png)  ![](images/StephCurry3pPercentage.png)
+|![](images/Curry3PA.png)|![](images/StephCurry3pPercentage.png)|
 # NBA Report
 Nirmal Jacob:
 -----------
