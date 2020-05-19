@@ -1,7 +1,7 @@
 # ETL-Pros
 Basketball player stat analysis focused on utilizing the extract-transform-load process.
 # College Report
-* Jeremy Stewart
+Jeremy Stewart:
 ----------------
 ## Sources & Files
 * Source of Data: https://www.sports-reference.com/cbb/play-index/psl_finder.cgi
@@ -18,7 +18,7 @@ Basketball player stat analysis focused on utilizing the extract-transform-load 
 * Observed row counts and series data types
 * Removed unneed columns
 * Dropped Rows with null values to avoid skewing data
-- [x] Used as a clean foundation for following tables to be loaded
+* Used as a clean foundation for following tables to be loaded
 ## NCAA Player Career Averages
 ### Extraction 
 * Derived from grouping original csv by Player series
@@ -29,13 +29,14 @@ Basketball player stat analysis focused on utilizing the extract-transform-load 
 * Merged Min/Max dataframes with Mean dataframe
 * Final merge with "Player_Lookup.csv" to display stats for players who have NBA Draft and NBA Stat data
 * Saved as a new csv
+![](images/NCAAstatsPerSeason.png)
 ### Load 
 * Created a new table in PosgreSQL named "ncaa_career_avgs"
 * Loaded transformed csv into new table
-## NCAA Player Career Averages
+## NCAA Player Career Totals
 ### Extraction 
 * Derived from grouping original csv by Player series
-* Created new dataframe to hold mean of each statistical category over each player's college career
+* Created new dataframe to hold sums of each statistical category over each player's college career
 ### Transformation 
 * Determined beginning and end of each player's career by finding min and max season years
 * Dropped series with irrelevant means
@@ -43,23 +44,17 @@ Basketball player stat analysis focused on utilizing the extract-transform-load 
 * Final merge with "Player_Lookup.csv" to display stats for players who have NBA Draft and NBA Stat data
 * Saved as a new csv
 ### Load 
-* Created a new table in PosgreSQL named "ncaa_career_avgs"
+* Created a new table in PosgreSQL named "ncaa_career_totals"
 * Loaded transformed csv into new table
-## NCAA Player Career Averages
-### Extraction 
-* Derived from grouping original csv by Player series
-* Created new dataframe to hold mean of each statistical category over each player's college career
-### Transformation 
-* Determined beginning and end of each player's career by finding min and max season years
-* Dropped series with irrelevant means
-* Merged Min/Max dataframes with Mean dataframe
-* Final merge with "Player_Lookup.csv" to display stats for players who have NBA Draft and NBA Stat data
+## NCAA Player Stats Per Season
+### Extraction/Transformation 
+* Created by merging original cleaned dataframe with dataframe that contained NBA players
 * Saved as a new csv
 ### Load 
-* Created a new table in PosgreSQL named "ncaa_career_avgs"
+* Created a new table in PosgreSQL named "ncaa_stats_per_season"
 * Loaded transformed csv into new table
 # Draft Report
-* Luke Ellison:
+Luke Ellison:
 --------------
 Worked on cleaning draft data. Data was pulled from a seperate source than other NBA/College player stats but also came from kaggle [here](www.kaggle.com/pmp5kh/nba-draft-19802017/data) 
 APIs we looked at either didn't match up with the scope of the project (too small/recent) or costed money so we decided to stick with using csv's pulled from kaggle for the most part, making things fairly streamlined.
@@ -68,7 +63,7 @@ Cleaning and transforming the data in my case was quite a bit trickier. Comments
 
 We used postgresql to store our data. This was mostly because formatting a player ID key and sorting by players in a relational database was much more practical than having dictionary data for each player given the large number of stats available. We used quickdatabasediagrams.com to create the general format and addressed datatype issues as we moved along. Mostly involving column name adjustments. SQL files in my (Luke's) branch mostly used for test purposes. Nirmal handled the rest of the sql uploads. Finally added Visualizations to show usability of data
 # NBA Report
-* Nirmal Jacob
+Nirmal Jacob:
 -----------
 ## Sources & Files
 - Source of Data: https://www.kaggle.com/drgilermo/nba-players-stats
