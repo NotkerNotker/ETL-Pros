@@ -62,9 +62,12 @@ Worked on cleaning draft data. Data was pulled from a seperate source than other
 APIs we looked at either didn't match up with the scope of the project (too small/recent) or costed money so we decided to stick with using csv's pulled from kaggle for the most part, making things fairly streamlined.
 
 Cleaning and transforming the data in my case was quite a bit trickier. Comments in the cleaning file contain step by step explainations but essentially the trouble was reformatting the names in such a way where the data could be merged with the player_lookup via the given player name. This was particularly difficult due to encoding issues with foriegn names. Some names could be cleaned through excel's find and replace function and comparing to other player data, however at a certain point some rows had to be dropped in the interest of time. I also worked on cleaning the seasonal player data on the nba side. (though Nirmal apparently did it one his own as well) This one was much more straightforward because it after dropping null values and adjusting names, merging to connect IDs dropped all the data outside the scope of the project. 
+
 ![](images/LookupTest.png)
+
 ![](images/SeasonData.png)
-We used postgresql to store our data. This was mostly because formatting a player ID key and sorting by players in a relational database was much more practical than having dictionary data for each player given the large number of stats available. We used quickdatabasediagrams.com to create the general format and addressed datatype issues as we moved along. Mostly involving column name adjustments. SQL files in my (Luke's) branch mostly used for test purposes. Nirmal handled the rest of the sql uploads. Finally added Visualizations to show usability of data
+
+We used postgresql to store our data. This was mostly because formatting a player ID key and sorting by players in a relational database was much more practical than having dictionary data for each player given the large number of stats available. We used quickdatabasediagrams.com to create the general format and addressed datatype issues as we moved along. Mostly involving column name adjustments. SQL files in my (Luke's) branch mostly used for test purposes. Nirmal handled the rest of the sql uploads. Finally added Visualizations to show usability of data.
 ![](images/Curry3PA.png)  ![](images/StephCurry3pPercentage.png)
 # NBA Report
 Nirmal Jacob:
@@ -79,6 +82,7 @@ Nirmal Jacob:
 - [x] Take only the player name and create a new dataframe
 - [x] In the newly created dataframe create two new columns for first name and last name
 - [x] Remove any null value fields from the dataframe
+
 ![](images/PlayerLookup.png)
 ### Load 
 - [x] Create a new table in PosgreSQL named players
@@ -97,6 +101,7 @@ Nirmal Jacob:
 - [x] Only select the fields player id, date of birth, city of birth, state of birth
 - [x] Rename the columns in a more descriptive manner
 - [x] Remove any null value fields from the dataframe
+
 ![](images/PlayerInformation.png)
 ### Load 
 - [x] Create a new table in PosgreSQL named player_information
@@ -112,6 +117,7 @@ Nirmal Jacob:
 - [x] Only select the fields player id, career start year, career end year, height, & weight
 - [x] Remove any null value fields from the dataframe
 - [x] Rename the columns in a more descriptive manner
+
 ![](images/PlayerNBAinfo.png)
 ### Load 
 - [x] Create a new table in PosgreSQL named player_nba_information
@@ -130,6 +136,7 @@ Nirmal Jacob:
     - [x] Feilds continued .. blocks that season, turnovers that season, & field goal percentage that season
 - [x] Rename the columns in a more descriptive manner
 - [x] Remove any null value fields from the dataframe
+
 ![](images/PlayerNBAstats.png)
 ### Load 
 - [x] Create a new table in PosgreSQL named player_nba_stats
